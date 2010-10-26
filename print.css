@@ -7,6 +7,7 @@ body {
   color: black;
   font-family: serif;
 }
+.download { display: none; }
 #resume { font-size: 10pt; }
 #resume a {
   color: black;
