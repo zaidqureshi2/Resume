@@ -7,6 +7,7 @@ body {
   line-height: 1.4em;
   background-color: #f9f9f9;
   font-family: serif;
+  font-size: 0.9em;
 }
 .clearfix:after {
   content: ".";
@@ -53,7 +54,7 @@ body {
 #resume h3 { margin-top: 1em !important; }
 #resume p {
   margin: 1em 0 !important;
-  line-height: 1.5em !important;
+  line-height: auto !important;
 }
 #resume ul { margin: 1em 0 1em 2em !important; }
 #resume ul li {
