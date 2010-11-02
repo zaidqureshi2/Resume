@@ -12,7 +12,7 @@
   <img src='/__sinatra__/404.png'>
   <div id="c">
     Try this:
-    <pre>get '/index.html' do
+    <pre>get '/readme.txt' do
   "Hello World"
 end</pre>
   </div>
