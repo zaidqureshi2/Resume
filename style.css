@@ -36,7 +36,7 @@ body {
 #resume h6 { border: 0; }
 #resume h1 {
   font-size: 170%;
-  border-top: 4px solid #aaaaaa;
+  border-top: 4px solid #e0e0e0;
   padding-top: 0.5em;
   margin-top: 1.5em;
 }
@@ -44,6 +44,7 @@ body {
   margin-top: 30px;
   padding-top: 0.25em;
   border-top: none;
+  font-size: 200%;
 }
 #resume h2 {
   font-size: 150%;
@@ -83,7 +84,7 @@ body {
   margin-bottom: 0;
 }
 #resume blockquote {
-  border-left: 5px solid #dddddd;
+  border-left: 5px solid #e0e0e0;
   margin: 1em 0;
   padding-left: 0.6em;
 }
@@ -96,33 +97,10 @@ body {
   text-decoration: none;
 }
 #resume a:hover { text-decoration: underline; }
-#resume pre {
-  margin: 1em 0;
-  font-size: 12px;
-  background-color: #f8f8ff;
-  border: 1px solid #dedede;
-  padding: 0.5em;
-  line-height: 1.5em;
-  color: #444444;
-  overflow: auto;
-}
-#resume pre code {
-  padding: 0;
-  font-size: 12px;
-  background-color: #f8f8ff;
-  border: none;
-}
-#resume code {
-  font-size: 12px;
-  background-color: #f8f8ff;
-  color: #444444;
-  padding: 0 0.2em;
-  border: 1px solid #dedede;
-}
 #resume img { max-width: 100%; }
 #resume blockquote {
   margin: 1em 0;
-  border-left: 5px solid #dddddd;
+  border-left: 5px solid #e0e0e0;
   padding-left: 0.6em;
   color: #333333;
 }
