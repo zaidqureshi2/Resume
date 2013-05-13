@@ -14,7 +14,8 @@
     Try this:
     <pre>get '/print.css' do
   "Hello World"
-end</pre>
+end
+</pre>
   </div>
 </body>
 </html>
