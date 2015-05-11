@@ -12,9 +12,7 @@
 
 #### University of Ottawa (Ottawa)
 
-<span class="date">
-2012-Present
-</span>
+*2012 to present day*
 
 - Currently in third year, second semester
 - University of Ottawa Admission Scholarship
@@ -24,9 +22,7 @@
 
 #### St. Paul High School (Nepean)
 
-<span class="date">
-2007-2012
-</span>
+*2007 to 2012*
 
 - Graduated with Honors
 - Completed in the French-immersion program
@@ -43,13 +39,13 @@ Tasks included creating an application with dozens of different features, along
 with creating a test-suite for regression and unit testing. 
 
 - **Java:** Used Java to create my schedule generator on GitHub, as well as
-most school assignments. Pratice object-oriented programming when architecting
+most school assignments. Practice object-oriented programming when architecting application.
 Java projects. Experience creating GUIs in Swing/AWT. 
 
 - **Python:** Used Python quite a few times, usually to automate personal and
 minor work tasks, as it is a clean and effective functional language.
 
-- Other techologies used include **jQuery**, **nodeJS**, **C++**
+- Other technologies used include **jQuery**, **nodeJS**, **C++**
 (object-oriented course work), **VBA** (Excel macros),
 and **VB.NET**.
 
@@ -75,7 +71,7 @@ in OSX.
 
 ### Design
 
-- Website design skills using HTML5 and CSS3, including creating new stylesheets for existing websites as a hobby.
+- Website design skills using HTML5 and CSS3, including creating new style-sheets for existing websites as a hobby.
 - Use of Ionic Framework to develop a cross-platform application using web technologies.
 - Adobe Creative Suite experience, including extensive Photoshop skills.
 
@@ -95,7 +91,7 @@ An open source contributer on GitHub account
 
 #### Mobile Application Developer
 
-May 2014 to April 2015
+*May 2014 to April 2015*
 
 Built a mobile application for mobile transactions using the Ionic framework.
  
@@ -104,7 +100,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 * Use of code reviews while working in a small team.
 
 * Wrote the application from scratch, and carried it through a design phase into
-a user-accesptance testing maintenance phase.
+a user-acceptance testing maintenance phase.
 
 * Wrote documentation for the application for future developers.
 
@@ -112,7 +108,7 @@ a user-accesptance testing maintenance phase.
 
 #### GCMS Automated Tester
 
-May 2013 to August 2013
+*May 2013 to August 2013*
  
 * Ran automated tests for regression testing.
 
@@ -127,7 +123,7 @@ several computers on a local network.
 
 #### Computer Technician and Sales
 
-July 2011 to present day
+*July 2011 to present day*
  
 * Built, sold, diagnosed, and repaired Windows PCs.
 
