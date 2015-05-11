@@ -8,14 +8,26 @@
 
 ## Education
 
-Baccalaureate of Applied Science in Software Engineering, CO-OP; University of Ottawa (Ottawa)
-2012-Present 
+### Baccalaureate of Applied Science in Software Engineering, CO-OP
+
+#### University of Ottawa (Ottawa)
+
+<span class="date">
+2012-Present
+</span>
+
 - Currently in third year, second semester
 - University of Ottawa Admission Scholarship
 - Current CGPA of 8.7
  
-High School Diploma; St. Paul High School (Nepean)
+### High School Diploma
+
+#### St. Paul High School (Nepean)
+
+<span class="date">
 2007-2012
+</span>
+
 - Graduated with Honors
 - Completed in the French-immersion program
 - Received department award for computer science for grades 10 through 12
@@ -77,7 +89,7 @@ An open source contributer on GitHub account
 - Contributions made for various projects, including pull-requests and bug reports. Pull-requests for original features made for Plover, open source stenography software; and bug reports with follow-up for the Ionic framework.
 - Original projects include:
     * a rolling log implementation for AngularJS paired with Cordova, with a focus on using promises (futures) for synchronous code.
-    * a schedule generator with a web-scraping component. This Java project used a UML code generator for its core data structures, has a Swing/AWT GUI, draws on a Canvas, and uses a client/server architecture. The web scraping component is made up of two Python scripts. One is a selenium web-driver job that explores the uOttawa website to grab all the course names, and the second is a multi-threaded Beautiful Soup script to grab the course details, with some RegEx as well.
+    * a schedule generator for the University of Ottawa. This Java project used a UML code generator for its core data structures, has a Swing/AWT GUI, draws on a Canvas, and uses a client/server architecture. The web scraping component is made up of two Python scripts. One is a selenium web-driver job that explores the uOttawa website to grab all the course names, and the second is a multi-threaded Beautiful Soup script to grab the course details, with some RegEx as well.
 
 ### Telepin Software
 
@@ -103,7 +115,7 @@ a user-accesptance testing maintenance phase.
 * Rewrote the Java GUI to be more concise.
 
 * Wrote an AutoHotKey script to automate the batch running of tests across
-several computers on a local network
+several computers on a local network.
 
 * Many separate tasks creating macro Excel spreadsheets.
 
@@ -113,10 +125,10 @@ several computers on a local network
  
 * Built, sold, diagnosed, and repaired Windows PCs.
 
-* Compilation of the bi-weekly newsletter
+* Compilation of the bi-weekly newsletter.
 
-* Writing of scripts in Python, nodeJS, and Excel for various in-store tasks
+* Writing of scripts in Python, nodeJS, and Excel for various in-store tasks.
 
 ## References
 
-Please email me for more contact information and references
+Please email me for more contact information and references.
