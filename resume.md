@@ -37,14 +37,13 @@
   Ionic framework, a framework employing **AngularJS**, **HTML5**, **CSS3**, and
   **Cordova** in order to create native-like cross-platform mobile applications.
   Tasks included creating an application with dozens of different features,
-  along with creating a test-suite for regression and unit testing. 
-
+  along with creating a test-suite for regression and unit testing.
 - **Java:** Used Java to create my schedule generator on GitHub, as well as
   most school assignments. Practice object-oriented programming when
   architecting Java projects. Experience creating GUIs in Swing/AWT. 
 - **Python:** Used Python quite a few times, usually to automate personal and
   minor work tasks, as it is a clean and effective functional language.
-- Other technologies used include **jQuery**, **nodeJS**, **C++**
+- Other technologies used include **jQuery**, **Node.js**, **C++**
   (object-oriented course work), **VBA** (Excel macros), and **VB.NET**.
 
 ### Tools
@@ -131,7 +130,7 @@ several computers on a local network.
 
 - Built, sold, diagnosed, and repaired Windows PCs.
 - Compilation of the bi-weekly newsletter.
-- Writing of scripts in Python, nodeJS, and Excel for various in-store tasks.
+- Writing of scripts in Python, Node.js, and Excel for various in-store tasks.
 
 ## References
 
