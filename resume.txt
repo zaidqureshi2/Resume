@@ -93,7 +93,9 @@ An open source contributer on GitHub account
 
 ### Telepin Software
 
-#### Mobile Application Developer - May 2014 to April 2015
+#### Mobile Application Developer
+
+May 2014 to April 2015
 
 Built a mobile application for mobile transactions using the Ionic framework.
  
@@ -109,6 +111,8 @@ a user-accesptance testing maintenance phase.
 ### Citizenship & Immigration Canada
 
 #### GCMS Automated Tester
+
+May 2013 to August 2013
  
 * Ran automated tests for regression testing.
 
@@ -122,6 +126,8 @@ several computers on a local network.
 ### RB Computing Inc.
 
 #### Computer Technician and Sales
+
+July 2011 to present day
  
 * Built, sold, diagnosed, and repaired Windows PCs.
 
