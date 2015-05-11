@@ -50,7 +50,9 @@
 
 - Most comfortable in Linux and Windows for development, with some experience
   in OSX.
-- Adept with terminal Git.
+- Adept with terminal Git, and experience using web services such as GitHub and
+  Git bucket.
+- Experience with Atlassian Jira and GitHub as ticket systems.
 - Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA IDEs.
 - Use of Pandoc and Markdown for near all text work.
 
