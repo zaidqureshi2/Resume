@@ -1,31 +1,36 @@
-/** Resume print style sheet. Attempts to make the page similar, but better looking on paper. */
+@charset "UTF-8";
+/** Less based style sheet. @author Nat Welch @author Ted Morin */
 * { margin: 0; padding: 0; }
 
-body { background: white; color: black; font-family: serif; }
+body { color: #000; line-height: 1.4em; background-color: #FFF; font-family: serif; font-size: 0.9em; }
+
+/** Fix float problem. http://www.positioniseverything.net/easyclearing.html */
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
 
 .download { display: none; }
 
-#resume { font-size: 8pt; }
-#resume a, #resume a:visited { color: black; text-decoration: none; }
-#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0 !important; }
-#resume h1 { font-size: 170%; }
-#resume h1:first-child { font-size: 210%; }
-#resume h2 { font-size: 150%; }
-#resume h3 { margin-top: 0.6em; font-size: 130%; margin-bottom: 0; }
-#resume p { margin: 0.6em 0; line-height: 1.5em; }
-#resume blockquote { border: 0 !important; margin: 0.5em 0 !important; padding-left: 0.6em !important; }
-#resume blockquote p { margin: 0.2em 0; }
+#resume { width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Subtle list bullets*/ /*Float right for contact information*/ /*Page break on certain points*/ }
+#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
+#resume h1 { font-size: 170%; border-top: 4px solid #699A33; padding-top: 0.5em; margin-top: 1.5em; }
+#resume h1:first-child { margin-top: 30px; padding-top: 0.25em; border-top: none; font-size: 200%; }
+#resume h2 { font-size: 150%; margin-top: 1.5em; border-top: 4px solid #699A33; padding-top: 0.5em; }
+#resume h3 { margin-top: 1em; }
+#resume p { margin: 1em 0; line-height: auto; }
 #resume ul, #resume ol { margin: 1em 0 1em 2em; }
-#resume ul li, #resume ol li { margin-top: .5em; margin-bottom: .5em; }
+#resume ul li, #resume ol li { margin-top: 0.3em; margin-bottom: 0.3em; }
 #resume ul ul, #resume ul ol, #resume ol ul, #resume ol ol { margin-top: 0; margin-bottom: 0; }
-#resume a, #resume a:visited { text-decoration: none; }
+#resume blockquote { border-left: 5px solid #699A33; margin: 1em 0; padding-left: 0.6em; }
+#resume a, #resume a:visited { color: #457313; text-decoration: none; }
 #resume a:hover { text-decoration: underline; }
-#resume pre { margin: 1em 0; font-size: 12px; border: 1px solid #dedede; padding: .5em; line-height: 1.5em; overflow: auto; }
-#resume pre code { padding: 0; font-size: 12px; border: none; }
-#resume code { font-size: 12px; padding: 0 .2em; border: 1px solid #dedede; }
 #resume img { max-width: 100%; }
-#resume blockquote { margin: 1em 0; border-left: 5px solid #ddd; padding-left: .6em; }
+#resume blockquote { margin: 1em 0; border-left: 5px solid #699A33; padding-left: 0.6em; color: #000; }
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
+#resume ul { list-style-type: none; }
+#resume li { text-indent: -1.1em; }
+#resume li:before { content: '■'; padding-right: 0.5em; color: #699A33; }
+#resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 1em; top: 1em; margin: 0; }
+#resume h1 + ul > li:before { content: ''; }
+#resume .page-break { page-break-after: always; }
 
 /*# sourceMappingURL=print.css.map */

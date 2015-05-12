@@ -1,7 +1,8 @@
 # Ted Morin
 
-- <morinted@gmail.com>
 - Ottawa, Ontario, Canada
+- <morinted@gmail.com>
+- [www.tedmor.in](http://www.tedmor.in)
 
 ## Spoken Languages
 
@@ -29,6 +30,8 @@
 - Graduated with Honors
 - Completed in the French-immersion program
 - Received department award for computer science for grades 10 through 12
+
+<span class="page-break"></span>
 
 ## Technical Skills
 
@@ -77,6 +80,8 @@
 - Use of Ionic Framework to develop a cross-platform application using web
   technologies.
 - Adobe Creative Suite experience, including extensive Photoshop skills.
+
+<span class="page-break"></span>
 
 ## Experience
 
