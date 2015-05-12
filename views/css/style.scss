@@ -1,12 +1,13 @@
 /**
  * Less based style sheet.
  * @author Nat Welch
+ * @author Ted Morin
  */
 
 $fg:     #333333;
 $bg:     #F9F9F9;
-$link:   #4183C4;
-$border: #E0E0E0;
+$link:   lighten(desaturate(#457313, 10%), 10%);
+$border: lighten(desaturate(#699A33, 30%), 30%);
 
 * {
   margin: 0;
@@ -41,6 +42,7 @@ body {
 
 #resume {
   width: 800px;
+  position: relative;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
@@ -145,5 +147,21 @@ body {
     content: '■';
     padding-right: 0.5em;
     color: $border;
+  }
+
+  /*Float right for contact information*/
+  @media (min-width: 800px) {
+    h1 + ul {
+         font-size: 110%;
+         float: right;
+         text-align: right;
+         position: absolute;
+         right: 1em;
+         top: 1em;
+         margin: 0;
+     }
+    h1 + ul > li:before {
+         content: '';
+     }
   }
 }
