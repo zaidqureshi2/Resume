@@ -110,7 +110,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - An e2e and unit test suite were built during test-driven development.
 - Use of code reviews while working in a small team.
 - Wrote the application from scratch, and carried it through a design phase into
-  a user-acceptance testing maintenance phase.
+  a user acceptance testing phase.
 - Wrote documentation for the application for future developers.
 
 ### Citizenship & Immigration Canada
@@ -131,9 +131,9 @@ several computers on a local network.
 
 *July 2011 to present day*
 
-- Build, sell, diagnose, and repaire Windows PCs.
+- Build, sell, diagnose, and repair Windows PCs.
 - Compile the bi-weekly newsletter
-- Write scripts in Python, nodeJS, and Excel for various in-store tasks
+- Write scripts in Python, Node.js, and Excel for various in-store tasks
 
 ## References
 
