@@ -150,7 +150,7 @@ body {
   }
 
   /*Float right for contact information*/
-  @media (min-width: 800px) {
+  @media (min-width: 800px) and (min-device-width: 800px) {
     h1 + ul {
          font-size: 110%;
          float: right;
