@@ -1,6 +1,7 @@
 # Ted Morin
 
-<morinted@gmail.com>
+- <morinted@gmail.com>
+- Ottawa, Ontario, Canada
 
 ## Spoken Languages
 
@@ -130,9 +131,9 @@ several computers on a local network.
 
 *July 2011 to present day*
 
-- Built, sold, diagnosed, and repaired Windows PCs.
-- Compilation of the bi-weekly newsletter.
-- Writing of scripts in Python, Node.js, and Excel for various in-store tasks.
+- Build, sell, diagnose, and repaire Windows PCs.
+- Compile the bi-weekly newsletter
+- Write scripts in Python, nodeJS, and Excel for various in-store tasks
 
 ## References
 
