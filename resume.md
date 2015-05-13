@@ -20,7 +20,7 @@
 - Currently in third year, second semester
 - University of Ottawa Admission Scholarship
 - Current CGPA of 8.7
- 
+
 ### High School Diploma
 
 #### St. Paul High School (Nepean)

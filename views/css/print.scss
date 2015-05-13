@@ -160,6 +160,16 @@ body {
     h1 + ul > li:before {
          content: '';
      }
+     /*Float right italics after an h4,
+     * Meant for dates.
+     */
+     h4 + p > em {
+          margin-top: -3.3em;
+          padding-top: 0;
+          font-size: 110%;
+          float: right;
+          text-align: right;
+      }
 
   /*Page break on certain points*/
   .page-break {

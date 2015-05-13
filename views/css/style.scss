@@ -149,6 +149,7 @@ body {
     color: $border;
   }
 
+
   /*Float right for contact information*/
   @media (min-width: 800px) and (min-device-width: 800px) {
     h1 + ul {
@@ -162,6 +163,18 @@ body {
      }
     h1 + ul > li:before {
          content: '';
+     }
+
+    /*Float right italics after an h4,
+    * Meant for dates.
+    */
+    h4 + p > em {
+         color: darken($border, 40%);
+         margin-top: -3.3em;
+         padding-top: 0;
+         font-size: 110%;
+         float: right;
+         text-align: right;
      }
   }
 }
