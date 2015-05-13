@@ -9,9 +9,7 @@ body { color: #000; line-height: 1.4em; background-color: #FFF; font-family: ser
 
 .download { display: none; }
 
-#resume { width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Subtle list bullets*/ /*Float right for contact information*/ /*Float right italics after an h4,
-* Meant for dates.
-*/ /*Page break on certain points*/ }
+#resume { width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*** Custom CSS ***/ /*Subtle list bullets*/ /*Float right for contact information*/ /*Float right italics after an h4, Meant for dates. */ /*Page break on certain points*/ }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
 #resume h1 { font-size: 170%; border-top: 4px solid #699A33; padding-top: 0.5em; margin-top: 1.5em; }
 #resume h1:first-child { margin-top: 30px; padding-top: 0.25em; border-top: none; font-size: 200%; }
