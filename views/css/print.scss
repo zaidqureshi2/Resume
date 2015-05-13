@@ -4,22 +4,21 @@
  * @author Ted Morin
  */
 
-$fg:     #000;
-$bg:     #FFF;
-$link:   #457313;
+$fg: #000;
+$bg: #FFF;
+$link: #457313;
 $border: #699A33;
-
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  color: $fg;
-  line-height: 1.4em;
-  background-color: $bg;
-  font-family: serif;
-  font-size: 0.9em;
+    color: $fg;
+    line-height: 1.4em;
+    background-color: $bg;
+    font-family: serif;
+    font-size: 0.9em;
 }
 
 /**
@@ -27,152 +26,138 @@ body {
  * http://www.positioniseverything.net/easyclearing.html
  */
 .clearfix:after {
-  content: ".";
-  display: block;
-  height: 0;
-  clear: both;
-  visibility: hidden;
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
 }
 
 .download {
-  display: none;
+    display: none;
 }
 
 #resume {
-  width: 800px;
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 30px;
-  padding: 10px;
+    width: 800px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 10px;
+    h1, h2, h3, h4, h5, h6 {
+        border: 0;
+    }
+    h1 {
+        font-size: 170%;
+        border-top: 4px solid $border;
+        padding-top: 0.5em;
+        margin-top: 1.5em;
+    }
+    h1:first-child {
+        margin-top: 30px;
+        padding-top: 0.25em;
+        border-top: none;
+        font-size: 200%;
+    }
+    h2 {
+        font-size: 150%;
+        margin-top: 1.5em;
+        border-top: 4px solid $border;
+        padding-top: 0.5em;
+    }
+    h3 {
+        margin-top: 1em;
+    }
+    p {
+        margin: 1em 0;
+        line-height: auto;
+    }
+    ul,
+    ol {
+        margin: 1em 0 1em 2em;
+        li {
+            margin-top: 0.3em;
+            margin-bottom: 0.3em;
+        }
+        ul,
+        ol {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+    blockquote {
+        border-left: 5px solid $border;
+        margin: 1em 0;
+        padding-left: 0.6em;
+    }
+    a,
+    a:visited {
+        color: $link;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    img {
+        max-width: 100%;
+    }
+    blockquote {
+        margin: 1em 0;
+        border-left: 5px solid $border;
+        padding-left: 0.6em;
+        color: $fg;
+    }
+    dt {
+        font-weight: bold;
+        margin-left: 1em;
+    }
+    dd {
+        margin-left: 2em;
+        margin-bottom: 1em;
+    }
 
-  h1, h2, h3, h4, h5, h6 {
-    border: 0;
-  }
+    /*** Custom CSS ***/
 
-  h1 {
-    font-size: 170%;
-    border-top: 4px solid $border;
-    padding-top: 0.5em;
-    margin-top: 1.5em;
-  }
-
-  h1:first-child {
-    margin-top: 30px;
-    padding-top: 0.25em;
-    border-top: none;
-    font-size: 200%;
-  }
-
-  h2 {
-    font-size: 150%;
-    margin-top: 1.5em;
-    border-top: 4px solid $border;
-    padding-top: 0.5em;
-  }
-
-  h3 {
-    margin-top: 1em;
-  }
-
-  p {
-     margin: 1em 0;
-     line-height: auto;
-  }
-
-  ul, ol {
-    margin: 1em 0 1em 2em;
-
+    /*Subtle list bullets*/
+    ul {
+        list-style-type: none;
+    }
     li {
-      margin-top: 0.3em;
-      margin-bottom: 0.3em;
+        text-indent: -1.1em;
+    }
+    li:before {
+        content: '■';
+        padding-right: 0.5em;
+        color: $border;
     }
 
-    ul, ol {
-      margin-top: 0;
-      margin-bottom: 0;
-    }
-  }
-
-  blockquote {
-    border-left: 5px solid $border;
-    margin: 1em 0;
-    padding-left: 0.6em;
-  }
-
-  a, a:visited {
-    color: $link;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  img {
-    max-width: 100%;
-  }
-
-  blockquote {
-    margin: 1em 0;
-    border-left: 5px solid $border;
-    padding-left: 0.6em;
-    color: $fg;
-  }
-
-  dt {
-    font-weight: bold;
-    margin-left: 1em;
-  }
-
-  dd {
-    margin-left: 2em;
-    margin-bottom: 1em;
-  }
-
-/*Custom CSS*/
-
-  /*Subtle list bullets*/
-  ul {
-    list-style-type: none;
-  }
-
-  li {
-    text-indent: -1.1em;
-  }
-
-  li:before {
-    content: '■';
-    padding-right: 0.5em;
-    color: $border;
-  }
-
-  /*Float right for contact information*/
+    /*Float right for contact information*/
     h1 + ul {
-         font-size: 110%;
-         float: right;
-         text-align: right;
-         position: absolute;
-         right: 1em;
-         top: 1em;
-         margin: 0;
-     }
+        font-size: 110%;
+        float: right;
+        text-align: right;
+        position: absolute;
+        right: 1em;
+        top: 1em;
+        margin: 0;
+    }
     h1 + ul > li:before {
-         content: '';
-     }
-     /*Float right italics after an h4,
+        content: '';
+    }
+
+    /*Float right italics after an h4,
      * Meant for dates.
      */
-     h4 + p > em {
-          margin-top: -3.3em;
-          padding-top: 0;
-          font-size: 110%;
-          float: right;
-          text-align: right;
-      }
+    h4 + p > em {
+        margin-top: -3.3em;
+        padding-top: 0;
+        font-size: 110%;
+        float: right;
+        text-align: right;
+    }
 
-  /*Page break on certain points*/
-  .page-break {
-    page-break-after: always;
-  }
+    /*Page break on certain points*/
+    .page-break {
+        page-break-after: always;
+    }
 }
