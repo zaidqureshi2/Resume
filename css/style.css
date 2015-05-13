@@ -29,7 +29,11 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 #resume ul { list-style-type: none; }
 #resume li { text-indent: -1.1em; }
 #resume li:before { content: '■'; padding-right: 0.5em; color: #b4c2a4; }
-@media (min-width: 800px) and (min-device-width: 800px) { #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 1em; top: 1em; margin: 0; }
-  #resume h1 + ul > li:before { content: ''; } }
+@media (min-width: 800px) and (min-device-width: 800px) { #resume { /*Float right italics after an h4,
+* Meant for dates.
+*/ }
+  #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 1em; top: 1em; margin: 0; }
+  #resume h1 + ul > li:before { content: ''; }
+  #resume h4 + p > em { color: #4e5d3d; margin-top: -3.3em; padding-top: 0; font-size: 110%; float: right; text-align: right; } }
 
 /*# sourceMappingURL=style.css.map */
