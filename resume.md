@@ -87,7 +87,7 @@
 
 ### Open Source Developer
 
-An open source contributer on GitHub account
+An open source contributor on GitHub account
 [morinted](https://github.com/morinted).
 
 - Contributions made for various projects, including pull-requests and bug
