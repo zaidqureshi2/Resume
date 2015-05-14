@@ -4,84 +4,25 @@
 - <morinted@gmail.com>
 - [www.tedmor.in](http://www.tedmor.in)
 
-## Spoken Languages
+## Summary
 
-- English (native speaker)
-- French (intermediate)
+A University of Ottawa co-op student studying to be a software engineer, with a
+strong interest in web technologies. Enthusiastic about the industry, and
+excited to work on projects that have a big impact on people's lives.
+Programming is a passion, and clean, efficient, and understandable code is
+personally important, regardless of the project.
 
 ## Education
 
-### Baccalaureate of Applied Science in Software Engineering, CO-OP
+### BASc in Software Engineering, CO-OP
 
 #### University of Ottawa (Ottawa)
 
-*2012 to present day*
+*2012 to December 2016 (expected)*
 
 - Currently in third year, second semester
 - University of Ottawa Admission Scholarship
 - Current CGPA of 8.7
-
-### High School Diploma
-
-#### St. Paul High School (Nepean)
-
-*2007 to 2012*
-
-- Graduated with Honors
-- Completed in the French-immersion program
-- Received department award for computer science for grades 10 through 12
-
-<span class="page-break"></span>
-
-## Technical Skills
-
-### Technologies
-
-- **Ionic Framework:** More than 8 months full-time experience working with the
-  Ionic framework, a framework employing **AngularJS**, **HTML5**, **CSS3**, and
-  **Cordova** in order to create native-like cross-platform mobile applications.
-  Tasks included creating an application with dozens of different features,
-  along with creating a test-suite for regression and unit testing.
-- **Java:** Used Java to create my schedule generator on GitHub, as well as
-  most school assignments. Practice object-oriented programming when
-  architecting Java projects. Experience creating GUIs in Swing/AWT. 
-- **Python:** Used Python quite a few times, usually to automate personal and
-  minor work tasks, as it is a clean and effective functional language.
-- Other technologies used include **jQuery**, **Node.js**, **C++**
-  (object-oriented course work), **VBA** (Excel macros), and **VB.NET**.
-
-### Tools
-
-- Most comfortable in Linux and Windows for development, with some experience
-  in OSX.
-- Adept with terminal Git, and experience using web services such as GitHub and
-  Git bucket.
-- Experience with Atlassian Jira and GitHub as issue tracking systems.
-- Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA IDEs.
-- Use of Pandoc and Markdown for near all text work.
-
-### Testing
-
-- Use of test-driven development while coding.
-- Experience running targeted regression tests for priority, time-sensitive
-  testing.
-
-### Database
-
-- Familiar with designing and normalizing databases through course work and
-  assignments.
-- Use of databases to solve problems, such as in the uOttawa schedule generator.
-- Use of PostgreSQL and MongoDB while developing course assignments.
-
-### Design
-
-- Website design skills using HTML5 and CSS3, including creating new
-  style-sheets for existing websites as a hobby.
-- Use of Ionic Framework to develop a cross-platform application using web
-  technologies.
-- Adobe Creative Suite experience, including extensive Photoshop skills.
-
-<span class="page-break"></span>
 
 ## Experience
 
@@ -90,9 +31,6 @@
 An open source contributor on GitHub account
 [morinted](https://github.com/morinted).
 
-- Contributions made for various projects, including pull-requests and bug
-  reports. Pull-requests for original features made for Plover, open source
-  stenography software; and bug reports with follow-up for the Ionic framework.
 - Original projects include:
     * a rolling log implementation for AngularJS paired with Cordova, with a
       focus on using promises (futures) for synchronous code.
@@ -101,8 +39,12 @@ An open source contributor on GitHub account
       draws on a Canvas, and uses a client/server architecture. The web scraping
       component is made up of two Python scripts. One is a selenium web-driver
       job that explores the uOttawa website to grab all the course names, and
-      the second is a multi-threaded Beautiful Soup script to grab the course
-      details, with some RegEx as well.
+      the second is a multi-threaded script to grab the course
+      details, and parses the data with Beautiful Soup and RegEx.
+- Developed features and fixed bugs for Plover, open source
+  stenography software written in Python.
+- Submitted bug reports with follow-up for the Ionic framework and the Ionic
+  keyboard.
 
 ### Telepin Software
 
@@ -111,12 +53,20 @@ An open source contributor on GitHub account
 *May 2014 to April 2015*
 
 Built a mobile application for mobile transactions using the Ionic framework.
- 
-- An e2e and unit test suite were built during test-driven development.
-- Use of code reviews while working in a small team.
-- Wrote the application from scratch, and carried it through a design phase into
-  a user acceptance testing phase.
-- Wrote documentation for the application for future developers.
+
+- Created a mobile application in Ionic with a team, and carried it through
+  design, development, and into user acceptance testing.
+- Employed test driven development with an end-to-end and unit test suite to
+  ensure that the application was always customer-ready.
+- Conducted and received code reviews using Gerrit.
+- Tracked issues and development goals with Atlassian Jira.
+- Wrote documentation in Atlassian Confluence for the application for future
+  developers, including guides for environment setup and design documents
+  explaining major decisions.
+- Conducted the JavaScript portion of interviews for development positions and
+  aided in selecting candidates.
+
+<span class="page-break"></span>
 
 ### Citizenship & Immigration Canada
 
@@ -124,11 +74,15 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 *May 2013 to August 2013*
 
-- Ran automated tests for regression testing.
-- Rewrote the Java GUI to be more concise.
-- Wrote an AutoHotKey script to automate the batch running of tests across
-several computers on a local network.
-- Many separate tasks creating macro Excel spreadsheets.
+- Ensured new builds of the GCMS were functional and fast, using automated
+  tests.
+- Redesigned the test-running Java GUI to be more concise by reducing clutter
+  and predicting user action.
+- Automated the running of the regression test suite using an AutoHotKey script
+  to retrieve tests from a queue held on the intranet, then running the tests on
+  up to seven computers at once.
+- Created VBA macro-enabled Excel spreadsheets to automate manual tasks that the
+  team had been assigned.
 
 ### RB Computing Inc.
 
@@ -137,8 +91,38 @@ several computers on a local network.
 *July 2011 to present day*
 
 - Build, sell, diagnose, and repair Windows PCs.
-- Compile the bi-weekly newsletter
-- Write scripts in Python, Node.js, and Excel for various in-store tasks
+- Compile the bi-weekly newsletter.
+- Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
+  tasks, such as verifying that a list of products exist on the website.
+
+## Technical Skills
+
+### Technologies
+
+- JavaScript, Ionic Framework, AngularJS, Node.js, jQuery
+- PostgreSQL, MongoDB
+- VBA, Excel, VB.NET
+- Python, Django
+- AutoHotKey
+- Java
+- C++
+
+### Tools
+
+- Comfortable with GNU/Linux, Windows, and OS X.
+- Adept with terminal Git.
+- Issue tracking with Jira and GitHub.
+- Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA IDEs
+  such as WebStorm and IntelliJ.
+- Use of Markdown, LaTeX, and Pandoc for near all text work.
+
+### Hobbies
+
+- Built, programmed, and now use ErgoDox keyboards.
+- Type in the Norman keyboard layout, an efficient alternative to QWERTY.
+- Practice machine real-time stenography using Plover.
+- Fly and build custom quadcopters.
+- Create style sheets to redesign websites for personal use.
 
 ## References
 

@@ -54,7 +54,6 @@ body {
 
   h1 {
     font-size: 170%;
-    border-top: 4px solid $border;
     padding-top: 0.5em;
     margin-top: 1.5em;
   }
@@ -69,7 +68,7 @@ body {
   h2 {
     font-size: 150%;
     margin-top: 1.5em;
-    border-top: 4px solid $border;
+    border-top: 2px solid $border;
     padding-top: 0.5em;
   }
 
@@ -83,11 +82,15 @@ body {
   }
 
   ul, ol {
-    margin: 1em 0 1em 2em;
+    margin: 1em 0 1em 1.1em;
 
     li {
       margin-top: 0.3em;
       margin-bottom: 0.3em;
+
+      li:before {
+        content: '+';
+      }
     }
 
     ul, ol {
