@@ -13,7 +13,7 @@ user_config:
   pic: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/070/119/0ccaa17.jpg'
 
   # The google analytics key you wish to use.
-  gkey: ''
+  gkey: 'UA-63034105-1'
 
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
