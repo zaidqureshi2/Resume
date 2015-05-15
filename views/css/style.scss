@@ -24,7 +24,7 @@ body {
   line-height: 1.4em;
   background-color: $bg;
   font-family: serif;
-  font-size: 0.9em;
+  font-size: 14.4px;
 }
 
 /**
@@ -150,6 +150,7 @@ body {
   .horizontal-list + ul {
     text-align: center;
     li {
+      font-size: 100%;
       list-style-type: none;
       display: inline-block;
       /*See media query for other version*/
@@ -160,7 +161,7 @@ body {
     }
   }
 
-   /*Remove bullets from top list*/
+   /*Remove bullets from top list for contact*/
   h1 + ul {
     margin-left: 0.8em;
   }
