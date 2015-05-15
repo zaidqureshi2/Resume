@@ -2,14 +2,14 @@
 /** Less based style sheet. @author Nat Welch @author Ted Morin */
 * { margin: 0; padding: 0; }
 
-body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-family: serif; font-size: 0.9em; }
+body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-family: serif; font-size: 14.4px; }
 
 /** Fix float problem. http://www.positioniseverything.net/easyclearing.html */
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
 
 .download { display: block; text-align: right; }
 
-#resume { max-width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
+#resume { max-width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list for contact*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
 #resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
 #resume h1:first-child { margin-top: 30px; padding-bottom: 0.3em; padding-top: 0.25em; border-top: none; font-size: 230%; }
@@ -29,7 +29,7 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
 #resume .horizontal-list + ul { text-align: center; }
-#resume .horizontal-list + ul li { list-style-type: none; display: inline-block; /*See media query for other version*/ width: 32.33333%; }
+#resume .horizontal-list + ul li { font-size: 100%; list-style-type: none; display: inline-block; /*See media query for other version*/ width: 32.33333%; }
 #resume .horizontal-list + ul li:before { content: ''; }
 #resume h1 + ul { margin-left: 0.8em; }
 #resume h1 + ul > li:before { content: ''; }
