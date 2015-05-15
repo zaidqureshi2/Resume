@@ -7,7 +7,7 @@
 $fg: #000;
 $bg: #FFF;
 $link: #457313;
-$border: #699A33;
+$border: desaturate(lighten(#699A33, 10%), 10%);
 * {
     margin: 0;
     padding: 0;
@@ -51,12 +51,13 @@ body {
         font-size: 170%;
         padding-top: 0.5em;
         margin-top: 1.5em;
+        margin-bottom: 0.8em;
     }
     h1:first-child {
         margin-top: 30px;
         padding-top: 0.25em;
         border-top: none;
-        font-size: 200%;
+        font-size: 230%;
     }
     h2 {
         font-size: 150%;
@@ -71,18 +72,25 @@ body {
         margin: 0.8em 0;
         line-height: auto;
     }
-    ul,
-    ol {
-        margin: 0.8em 0 0.8em 1.1em;
-        li {
-            margin-top: 0.2em;
-            margin-bottom: 0.2em;
+    ul, ol {
+      margin: 0.8em 0 0.8em 0;
+
+      li {
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+
+        li:before {
+          content: '+';
         }
-        ul,
-        ol {
-            margin-top: 0;
-            margin-bottom: 0;
+        ul, ol {
+          margin-left: 0;
         }
+      }
+
+      ul, ol {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
     }
     blockquote {
         border-left: 5px solid $border;
@@ -122,11 +130,11 @@ body {
         list-style-type: none;
     }
     li {
-        text-indent: -1.1em;
+        text-indent: -0.8em;
     }
     li:before {
         content: '■';
-        padding-right: 0.5em;
+        padding-right: 0.3em;
         color: $border;
     }
 
@@ -136,7 +144,7 @@ body {
         float: right;
         text-align: right;
         position: absolute;
-        right: 1em;
+        right: 0.75em;
         top: 1em;
         margin: 0;
     }
@@ -148,7 +156,7 @@ body {
      * Meant for dates.
      */
     h4 + p > em {
-        margin-top: -3.3em;
+        margin-top: -3.4em;
         padding-top: 0;
         font-size: 110%;
         float: right;
