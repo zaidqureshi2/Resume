@@ -13,17 +13,25 @@ Programming is a passion. Clean, efficient, and understandable code is
 personally important, regardless of the project. Prefer working with a team in a
 position that allows for growth and learning.
 
-## Education
+## Technologies
 
-### BASc in Software Engineering, CO-OP
+<div class="horizontal-list"></div>
 
-#### University of Ottawa
-
-*2012 to December 2016 (expected)*
-
-- Currently in third year, second semester
-- University of Ottawa Admission Scholarship
-- Current CGPA of 8.7
+- JavaScript
+- Ionic
+- AngularJS
+- Node.js
+- jQuery
+- Java
+- Python
+- Django
+- VB.NET
+- C++
+- PostgreSQL
+- MongoDB
+- VBA
+- PHP
+- AutoHotKey
 
 ## Experience
 
@@ -67,7 +75,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Conducted the JavaScript portion of interviews for development positions and
   aided in selecting candidates.
 
-<span class="page-break"></span>
+<div class="page-break"></div>
 
 ### Citizenship & Immigration Canada
 
@@ -98,21 +106,11 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
   tasks, such as verifying that a list of products exist on the website.
 
-## Technical Skills
-
-### Technologies
-
-- JavaScript, Ionic Framework, AngularJS, Node.js, jQuery
-- PostgreSQL, MongoDB
-- VBA, Excel, VB.NET
-- Python, Django
-- AutoHotKey
-- Java
-- C++
+## Skills
 
 ### Tools
 
-- GNU/Linux, Windows, and OS X.
+- Comfortable on GNU/Linux, Windows, and OS X.
 - Adept with terminal Git.
 - Experience using Atlassian Jira and GitHub Issues for issue tracking.
 - Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA products
@@ -126,6 +124,18 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Practicing real-time machine stenography using Plover.
 - Flying and building custom quadcopters.
 - Creating style sheets to redesign websites for personal use.
+
+## Education
+
+### BASc in Software Engineering, CO-OP
+
+#### University of Ottawa
+
+*2012 to December 2016 (expected)*
+
+- Currently in third year, second semester
+- University of Ottawa Admission Scholarship
+- Current CGPA of 8.7
 
 ## References
 
