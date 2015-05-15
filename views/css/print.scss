@@ -8,6 +8,7 @@ $fg: #000;
 $bg: #FFF;
 $link: #457313;
 $border: desaturate(lighten(#699A33, 10%), 10%);
+$list-columns-desktop: 5;
 * {
     margin: 0;
     padding: 0;
@@ -125,6 +126,20 @@ body {
 
     /*** Custom CSS ***/
 
+    /*Let the user make a horizontal list*/
+    .horizontal-list + ul {
+      text-align: center;
+      li {
+        list-style-type: none;
+        display: inline-block;
+        /*See media query for other version*/
+        width: 100% / $list-columns-desktop - 1%;
+      }
+      li:before {
+        content: '';
+      }
+    }
+
     /*Subtle list bullets*/
     ul {
         list-style-type: none;
@@ -165,6 +180,6 @@ body {
 
     /*Page break on certain points*/
     .page-break {
-        page-break-after: always;
+        page-break-before: always;
     }
 }

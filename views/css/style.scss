@@ -9,6 +9,11 @@ $bg:     #F9F9F9;
 $link:   lighten(desaturate(#457313, 10%), 10%);
 $border: lighten(desaturate(#699A33, 30%), 30%);
 
+$list-columns-desktop: 5;
+$list-columns-mobile: 3;
+
+$resume-width: 800px;
+
 * {
   margin: 0;
   padding: 0;
@@ -40,7 +45,7 @@ body {
 }
 
 #resume {
-  max-width: 800px;
+  max-width: $resume-width;
   position: relative;
   margin-left: auto;
   margin-right: auto;
@@ -59,6 +64,7 @@ body {
 
   h1:first-child {
     margin-top: 30px;
+    padding-bottom: 0.3em;
     padding-top: 0.25em;
     border-top: none;
     font-size: 230%;
@@ -66,7 +72,7 @@ body {
 
   h2 {
     font-size: 150%;
-    margin-top: 1.5em;
+    margin-top: 1em;
     border-top: 2px solid $border;
     padding-top: 0.5em;
   }
@@ -139,6 +145,21 @@ body {
 
 /*Custom CSS*/
 
+
+  /*Let the user make a horizontal list*/
+  .horizontal-list + ul {
+    text-align: center;
+    li {
+      list-style-type: none;
+      display: inline-block;
+      /*See media query for other version*/
+      width: 100% / $list-columns-mobile - 1%;
+    }
+    li:before {
+      content: '';
+    }
+  }
+
    /*Remove bullets from top list*/
   h1 + ul {
     margin-left: 0.8em;
@@ -164,7 +185,8 @@ body {
 
 
   /*Float right for contact information*/
-  @media (min-width: 800px) and (min-device-width: 800px) {
+  @media (min-width: $resume-width * 1.05) and
+      (min-device-width: $resume-width * 1.05) {
     h1 + ul {
          font-size: 110%;
          float: right;
@@ -176,6 +198,13 @@ body {
      }
     ul, ol {
       margin-left: 0;
+    }
+
+    /*Let the user make a horizontal list*/
+    .horizontal-list + ul {
+      li {
+        width: 100% / $list-columns-desktop - 1%;
+      }
     }
 
     /*Float right italics after an h4,

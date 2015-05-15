@@ -9,7 +9,7 @@ body { color: #000; line-height: 1.4em; background-color: #FFF; font-family: ser
 
 .download { display: none; }
 
-#resume { width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*** Custom CSS ***/ /*Subtle list bullets*/ /*Float right for contact information*/ /*Float right italics after an h4, Meant for dates. */ /*Page break on certain points*/ }
+#resume { width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*** Custom CSS ***/ /*Let the user make a horizontal list*/ /*Subtle list bullets*/ /*Float right for contact information*/ /*Float right italics after an h4, Meant for dates. */ /*Page break on certain points*/ }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
 #resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; margin-bottom: 0.8em; }
 #resume h1:first-child { margin-top: 30px; padding-top: 0.25em; border-top: none; font-size: 230%; }
@@ -28,12 +28,15 @@ body { color: #000; line-height: 1.4em; background-color: #FFF; font-family: ser
 #resume blockquote { margin: 1em 0; border-left: 5px solid #82b34d; padding-left: 0.6em; color: #000; }
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
+#resume .horizontal-list + ul { text-align: center; }
+#resume .horizontal-list + ul li { list-style-type: none; display: inline-block; /*See media query for other version*/ width: 19%; }
+#resume .horizontal-list + ul li:before { content: ''; }
 #resume ul { list-style-type: none; }
 #resume li { text-indent: -0.8em; }
 #resume li:before { content: '■'; padding-right: 0.3em; color: #82b34d; }
 #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 0.75em; top: 1em; margin: 0; }
 #resume h1 + ul > li:before { content: ''; }
 #resume h4 + p > em { margin-top: -3.4em; padding-top: 0; font-size: 110%; float: right; text-align: right; }
-#resume .page-break { page-break-after: always; }
+#resume .page-break { page-break-before: always; }
 
 /*# sourceMappingURL=print.css.map */

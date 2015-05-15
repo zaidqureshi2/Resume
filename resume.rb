@@ -22,7 +22,7 @@ get '/index.html' do
   name  = settings.config['name']
   title = "#{name}'s Resume"
 
-  template = Tilt.new(rfile)
+  template = Tilt.new(rfile, :tables => true)
   resume = template.render
 
   erb :index, :locals => {
