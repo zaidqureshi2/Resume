@@ -2,7 +2,7 @@
 /** Less based style sheet. @author Nat Welch @author Ted Morin */
 * { margin: 0; padding: 0; }
 
-body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-family: serif; font-size: 14.4px; }
+body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-family: serif; font-size: 14.4px; }
 
 /** Fix float problem. http://www.positioniseverything.net/easyclearing.html */
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
@@ -12,14 +12,14 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 #resume { max-width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list for contact*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
 #resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
-#resume h1:first-child { margin-top: 30px; padding-bottom: 0.3em; padding-top: 0.25em; border-top: none; font-size: 230%; }
+#resume h1:first-child { margin-top: 0.3em; padding-bottom: 0.3em; padding-top: 0.25em; border-top: none; font-size: 230%; }
 #resume h2 { font-size: 150%; margin-top: 1em; border-top: 2px solid #b4c2a4; padding-top: 0.5em; }
 #resume h3 { margin-top: 1em; }
 #resume p { margin: 1em 0; line-height: auto; }
 #resume ul, #resume ol { margin: 1em 0 1em 1.1em; }
 #resume ul li, #resume ol li { margin-top: 0.3em; margin-bottom: 0.3em; }
 #resume ul li li:before, #resume ol li li:before { content: '+'; }
-#resume ul li ul, #resume ul li ol, #resume ol li ul, #resume ol li ol { margin-left: 0; }
+#resume ul li ul, #resume ul li ol, #resume ol li ul, #resume ol li ol { margin-left: 0.5em; }
 #resume ul ul, #resume ul ol, #resume ol ul, #resume ol ol { margin-top: 0; margin-bottom: 0; }
 #resume blockquote { border-left: 5px solid #b4c2a4; margin: 1em 0; padding-left: 0.6em; }
 #resume a, #resume a:visited { color: #5f9623; text-decoration: none; }
@@ -39,7 +39,8 @@ body { color: #333333; line-height: 1.4em; background-color: #F9F9F9; font-famil
 @media (min-width: 840px) and (min-device-width: 840px) { #resume { /*Let the user make a horizontal list*/ /*Float right italics after an h4,
 * Meant for dates.
 */ }
-  #resume h1 + ul { transition: 0.5s; font-size: 110%; float: right; text-align: right; position: absolute; right: 0.7em; top: 1em; margin: 0; }
+  #resume h1:first-child { margin-top: 1em; }
+  #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 0.7em; top: 1em; margin: 0; }
   #resume ul, #resume ol { margin-left: 0; }
   #resume .horizontal-list + ul li { width: 19%; }
   #resume h4 + p > em { color: #4e5d3d; margin-top: -3.4em; padding-top: 0; font-size: 110%; float: right; text-align: right; } }

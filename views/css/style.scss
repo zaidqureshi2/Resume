@@ -5,7 +5,7 @@
  */
 
 $fg:     #333333;
-$bg:     #F9F9F9;
+$bg:     #FAFAFA;
 $link:   lighten(desaturate(#457313, 10%), 10%);
 $border: lighten(desaturate(#699A33, 30%), 30%);
 
@@ -63,7 +63,7 @@ body {
   }
 
   h1:first-child {
-    margin-top: 30px;
+    margin-top: 0.3em;
     padding-bottom: 0.3em;
     padding-top: 0.25em;
     border-top: none;
@@ -97,7 +97,7 @@ body {
         content: '+';
       }
       ul, ol {
-        margin-left: 0;
+        margin-left: 0.5em;
       }
     }
 
@@ -188,6 +188,9 @@ body {
   /*Float right for contact information*/
   @media (min-width: $resume-width * 1.05) and
       (min-device-width: $resume-width * 1.05) {
+    h1:first-child {
+      margin-top: 1em;
+    }
     h1 + ul {
          font-size: 110%;
          float: right;
