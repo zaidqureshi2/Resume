@@ -42,7 +42,7 @@ An open source contributor on GitHub account
 
 - Original projects include:
     * a rolling log implementation for AngularJS paired with Cordova, with a
-      focus on using promises (futures) for synchronous code.
+      focus on using promises (futures) for asynchronous code.
     * a schedule generator for the University of Ottawa. This Java project used
       a UML code generator for its core data structures, has a Swing/AWT GUI,
       draws on a Canvas, and uses a client/server architecture. The web scraping
@@ -119,7 +119,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 ### Hobbies
 
-- Building, programming, and usage of ErgoDox keyboards.
+- Building, programming, and using ErgoDox keyboards.
 - Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
 - Practicing real-time machine stenography using Plover.
 - Flying and building custom quadcopters.
@@ -135,7 +135,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 - Currently in third year, second semester
 - University of Ottawa Admission Scholarship
-- Current CGPA of 8.7
+- Current CGPA of **8.7**/10 (**3.90**/4)
 
 ## References
 
