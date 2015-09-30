@@ -18,8 +18,9 @@ position that allows for growth and learning.
 <div class="horizontal-list"></div>
 
 - JavaScript
+- React
 - Ionic
-- AngularJS
+- Angular
 - Node.js
 - jQuery
 - Java
@@ -29,7 +30,6 @@ position that allows for growth and learning.
 - C++
 - PostgreSQL
 - MongoDB
-- VBA
 - PHP
 - AutoHotKey
 
@@ -40,6 +40,7 @@ position that allows for growth and learning.
 An open source contributor on GitHub account
 [morinted](https://github.com/morinted).
 
+- Current Lead Developer on Plover, the Open Source Stenography Program written (Python)
 - Original projects include:
     * a rolling log implementation for AngularJS paired with Cordova, with a
       focus on using promises (futures) for asynchronous code.
@@ -50,10 +51,16 @@ An open source contributor on GitHub account
       job that explores the uOttawa website to grab all the course names, and
       the second is a multi-threaded script to grab the course
       details, and parses the data with Beautiful Soup and RegEx.
-- Developed features and fixed bugs for Plover, open source stenography software
-  written in Python.
 - Submitted bug reports with follow-up for the Ionic framework and the Ionic
   keyboard.
+
+### Clearwater Clinical
+
+#### Full Stack Developer
+
+*August 2015 to December 2015*
+
+Extended a Java server that interfaced with AWS in order to support a cloud-based application, then build a web front end in React with Redux.
 
 ### Telepin Software
 
