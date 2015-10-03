@@ -3,19 +3,19 @@
 # Stuff about you.
 user_config:
   # Your Name. This will be used for the page title
-  name: 'Ted Morin'
+  name: 'Zaid Qureshi'
 
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
   file: 'resume.md'
 
   # A picture of you. Should be a complete url
-  pic: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/070/119/0ccaa17.jpg'
+  pic: 'https://scontent-ord1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/10671354_10203779562282849_3573036192747703267_n.jpg?oh=a50d4824640812e015f9c3102904d32c&oe=568EE33D'
 
   # The google analytics key you wish to use.
-  gkey: 'UA-63034105-1'
+  gkey: 'UA-68375433-1'
 
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
 github:
-  remote: 'git@github.com:morinted/Resume.git'
+  remote: 'git@github.com:zaidqureshi2/Resume.git'
