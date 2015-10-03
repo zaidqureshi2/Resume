@@ -1,59 +1,56 @@
-# Ted Morin
+# Zaid Qureshi
 
 - Ottawa, Ontario, Canada
-- <morinted@gmail.com>
-- [www.tedmor.in](http://www.tedmor.in)
+- <zaidqureshi94@gmail.com>
+- [www.zaid.work](http://www.zaid.work)
 
-## About Ted
+## About Zaid
 
-A University of Ottawa co-op student studying to be a software engineer, with a
-strong interest in web technologies. Enthusiastic about the industry, and
-excited to work on projects that have a big impact on people's lives.
-Programming is a passion. Clean, efficient, and understandable code is
-personally important, regardless of the project. Prefer working with a team in a
-position that allows for growth and learning.
+Software Engineering student at the University of Ottawa, with a strong interest in mobile and web development. Always working on new projects with passion to explore software technologies. My experience includes, but not limited to, web development, Android development, and quality assurance. 
+
+## Education
+
+### BASc in Software Engineering with Engineering Management
+
+#### University of Ottawa
+
+*2012 to April 2016 (expected)*
+
+- Currently in fourth year
 
 ## Technologies
 
 <div class="horizontal-list"></div>
 
+- Ruby on Rails
 - JavaScript
+- React
 - Ionic
-- AngularJS
+- Angular
 - Node.js
 - jQuery
 - Java
 - Python
-- Django
-- VB.NET
 - C++
+- C
 - PostgreSQL
 - MongoDB
-- VBA
 - PHP
-- AutoHotKey
+- Android
 
 ## Experience
 
-### Open Source Developer
+### Clearwater Clinical
 
-An open source contributor on GitHub account
-[morinted](https://github.com/morinted).
+#### Cloud Developer
 
-- Original projects include:
-    * a rolling log implementation for AngularJS paired with Cordova, with a
-      focus on using promises (futures) for asynchronous code.
-    * a schedule generator for the University of Ottawa. This Java project used
-      a UML code generator for its core data structures, has a Swing/AWT GUI,
-      draws on a Canvas, and uses a client/server architecture. The web scraping
-      component is made up of two Python scripts. One is a selenium web-driver
-      job that explores the uOttawa website to grab all the course names, and
-      the second is a multi-threaded script to grab the course
-      details, and parses the data with Beautiful Soup and RegEx.
-- Developed features and fixed bugs for Plover, open source stenography software
-  written in Python.
-- Submitted bug reports with follow-up for the Ionic framework and the Ionic
-  keyboard.
+*September 2015 to present*
+
+- Develop innovative mobile medical solutions
+- Work with Amazon Web Services
+- Build distributed, scalable, and highly available applications
+- Wrting a RESTful API
+- Unit testing and automated testing
 
 ### Telepin Software
 
@@ -61,83 +58,80 @@ An open source contributor on GitHub account
 
 *May 2014 to April 2015*
 
-Built a mobile application for mobile transactions using the Ionic framework.
-
-- Created a mobile application in Ionic with a team, and carried it through
-  design, development, and into user acceptance testing.
-- Practiced test driven development with an end-to-end and unit test suite to
-  ensure that the application was always customer-ready.
-- Performed and received code reviews using Gerrit.
-- Tracked issues and development goals with Atlassian Jira.
-- Wrote documentation in Atlassian Confluence for the application for future
-  developers, including guides for environment setup and design documents
-  explaining major decisions.
-- Conducted the JavaScript portion of interviews for development positions and
-  aided in selecting candidates.
+- Developed android application for mobile payments
+- Worked on cross-platform mobile application
+- Designed 3 tier architecture server
+- Worked with scripting and testing ussd menu
+- Automated scripts for Testing Android and web applications
+- Wrote documentation on Confluence for techinical and non-technical personnels
 
 <div class="page-break"></div>
 
-### Citizenship & Immigration Canada
+### Self-Employed
 
-#### GCMS Automated Tester
+#### Android Application Developer
 
-*May 2013 to August 2013*
+*January 2013 to Present*
 
-- Ensured new builds of the GCMS were functional and fast, using automated
-  tests.
-- Redesigned the test-running Java GUI to be more concise by reducing clutter
-  and predicting user action.
-- Automated the running of the regression test suite using an AutoHotKey script
-  to retrieve tests from a queue held on the intranet, then running the tests on
-  up to seven computers at once. This reduced the time it took to run a
-  regression test of a build to half of that of a manual run, and only required
-  one member of the team.
-- Created VBA macro-enabled Excel spreadsheets to automate manual tasks that the
-  team had been assigned.
+- create user friendly, effcient applications
+- developed 40 Rabbana Duas, 40000+ downloads
+- developed Escape, 700+ downloads
+- developed Line Maze
+- developed One Ayah a Day
+- playstore developer name: zaid.qureshi
 
-### RB Computing Inc.
+#### Computer Science Tutor
 
-#### Computer Technician and Sales
+*January 2013 to Present*
 
-*July 2011 to present day*
+- helped students understand basic and advanced programming concepts
+- came up with exercises for the students
+- provided efficient solutions for the problems students face
+- 
+### Software Engineering Student Association (uOttawa)
 
-- Build, sell, diagnose, and repair Windows PCs.
-- Compile the bi-weekly newsletter.
-- Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
-  tasks, such as verifying that a list of products exist on the website.
+#### Academic Director
+
+*September 2014 to Present*
+
+- helped students with problems in their courses
+- helped arrange tech-talks
+- provided students with exercises to help improve their programming skills
+
+###Wiconnect Corp.
+
+*June 2013 to July 2013*
+
+- provided IT support remotely to clients, at client locations
+- repaired or replaced different parents in laptops or desktops
+- finished tasks within given time period, satisfied client needs
+- assist IT specialists with their tasks
 
 ## Skills
 
+### Concepts
+
+- design and analysis of algorithms
+- advanced knowledge of UI Evaluations
+- able to perform software requirement analysis
+- strong grip on OOP concepts and software architecture
+- use of different data structures
+
 ### Tools
 
-- Comfortable on GNU/Linux, Windows, and OS X.
-- Adept with terminal Git.
-- Experience using Atlassian Jira and GitHub Issues for issue tracking.
-- Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA products
-  such as WebStorm and IntelliJ.
-- Use of Markdown, LaTeX, and Pandoc for near all text work.
+- comfortable on GNU/Linux, Windows, and OS X.
+- experience using Atlassian Jira and BitBucket Issues for issue tracking.
+- favorite developer tools include Sublime Text, Android Studio, and IBM Eclipse
+- use of Markdown, LaTeX, Vim, and Pandoc for near all text work
 
 ### Hobbies
 
-- Building, programming, and using ErgoDox keyboards.
-- Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
-- Practicing real-time machine stenography using Plover.
-- Flying and building custom quadcopters.
-- Creating style sheets to redesign websites for personal use.
-
-## Education
-
-### BASc in Software Engineering, CO-OP
-
-#### University of Ottawa
-
-*2012 to December 2016 (expected)*
-
-- Currently in third year, second semester
-- University of Ottawa Admission Scholarship
-- Current CGPA of **8.7**/10 (**3.90**/4)
+- chess
+- basketball
+- make programs to ease daily tasks
+- fitness
 
 ## References
 
-Please [email](mailto:morinted@gmail.com) for more contact information and
+Please [email](mailto:zaid.qureshi94@gmail.com) for more contact information and
 references.
