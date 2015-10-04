@@ -1,7 +1,7 @@
 # Zaid Qureshi
 
 - Ottawa, Ontario, Canada
-- <zaidqureshi94@gmail.com>
+- <zaid.qureshi94@gmail.com>
 - [www.zaid.work](http://www.zaid.work)
 
 ## About Zaid
