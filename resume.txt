@@ -18,25 +18,20 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 - Currently in fourth year
 
-## Technologies
+## Areas of Expertise
 
-<div class="horizontal-list"></div>
-
-- Ruby on Rails
-- JavaScript
-- React
-- Ionic
-- Angular
-- Node.js
-- jQuery
-- Java
-- Python
-- C++
-- C
-- PostgreSQL
-- MongoDB
-- PHP
-- Android
+- Advanced Java (Android) and C++ Programming:
+  + Developed Android Application with 40000+ downloads
+  + Developed mobile payments application for Telepin Software
+  + Developed a file transfer system over LAN
+  + Tutored for Java
+- Advanced Knowledge of Ruby on Rails framework:
+  + Developed TutorStaff.com
+- Advanced Knowledge of C, Python, AngularJS, PHP, JavaScript
+- Advanced use of Databases:
+  + Designed secure database systems
+  + Developed a Radio Station Application
+  + Used MySQL, PostgreSQL, and Oracle SQL
 
 ## Experience
 
@@ -58,12 +53,11 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *May 2014 to April 2015*
 
-- Developed android application for mobile payments
-- Worked on cross-platform mobile application
+- Developed android and cross-platform mobile application for mobile payments
 - Designed 3 tier architecture server
-- Worked with scripting and testing ussd menu
-- Automated scripts for Testing Android and web applications
+- Automated scripts for Testing Android, web applications, and USSD menus
 - Wrote documentation on Confluence for techinical and non-technical personnels
+- Atlassian Jira used for issue tracking
 
 ### Android Application Developer
 
@@ -71,14 +65,11 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *January 2013 to Present*
 
-- create user friendly, effcient applications
+- create user friendly, and effcient applications
 - developed 40 Rabbana Duas, 40000+ downloads
 - developed Escape, 700+ downloads
 - developed Line Maze
-- developed One Ayah a Day
 - playstore developer name: zaid.qureshi
-
-<div class="page-break"></div>
 
 ### Computer Science Tutor
 
@@ -111,29 +102,30 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - finished tasks within given time period, satisfied client needs
 - assist IT specialists with their tasks
 
-## Skills
 
-### Concepts
+## Concepts
 
-- design and analysis of algorithms
-- advanced knowledge of UI Evaluations
-- able to perform software requirement analysis
-- strong grip on OOP concepts and software architecture
-- use of different data structures
+### Analysis and Design of User Interfaces
 
-### Tools
+- knowledge of evaluating user interfaces, usability engineering, task analysis
+- experience in user-centered design and prototyping.
 
-- comfortable on GNU/Linux, Windows, and OS X.
-- experience using Atlassian Jira and BitBucket Issues for issue tracking.
-- favorite developer tools include Sublime Text, Android Studio, and IBM Eclipse
-- use of Markdown, LaTeX, Vim, and Pandoc for near all text work
+### Design and Analysis of Algorithms
 
-### Hobbies
+- analysis of algorithms: worst-case analysis, complexity analysis, asymptotic
+notations and basic complexity classes
+- algorithm design techniques: brute force, divide and conquer, dynamic
+programming, greedy, backtracking
+- computational complexity of problems: lower bound arguments, the classes P,
+NP, NP-complete, dealing with NP-complete problems
 
-- chess
-- basketball
-- make programs to ease daily tasks
-- fitness
+### Data Structures:
+
+- advanced knowledge of balanced trees, binary-trees, hashing
+- practiced sorting of Graphs and simple graph algorithms: traversal, minimum spanning tree
+- worked with java collections library such as linkedlists iterators etc
+- performed analysis of recursive programs using recurrence relations
+- studied properties of integers and basic cryptographical applications
 
 ## References
 
