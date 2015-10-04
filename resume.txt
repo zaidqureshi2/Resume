@@ -87,7 +87,7 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - helped students understand basic and advanced programming concepts
 - came up with exercises for the students
 - provided efficient solutions for the problems students face
-- 
+
 ### Software Engineering Student Association (uOttawa)
 
 #### Academic Director
