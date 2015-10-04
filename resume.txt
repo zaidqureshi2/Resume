@@ -40,9 +40,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 ## Experience
 
-### Clearwater Clinical
+### Cloud Developer
 
-#### Cloud Developer
+#### Clearwater Clinical
 
 *September 2015 to present*
 
@@ -52,9 +52,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - Wrting a RESTful API
 - Unit testing and automated testing
 
-### Telepin Software
+### Mobile Application Developer
 
-#### Mobile Application Developer
+#### Telepin Software
 
 *May 2014 to April 2015*
 
@@ -65,11 +65,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - Automated scripts for Testing Android and web applications
 - Wrote documentation on Confluence for techinical and non-technical personnels
 
-<div class="page-break"></div>
+### Android Application Developer
 
-### Self-Employed
-
-#### Android Application Developer
+#### Self-Employed
 
 *January 2013 to Present*
 
@@ -80,7 +78,11 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - developed One Ayah a Day
 - playstore developer name: zaid.qureshi
 
-#### Computer Science Tutor
+<div class="page-break"></div>
+
+### Computer Science Tutor
+
+#### Self-Employed
 
 *January 2013 to Present*
 
@@ -88,9 +90,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - came up with exercises for the students
 - provided efficient solutions for the problems students face
 
-### Software Engineering Student Association (uOttawa)
+### Academic Director
 
-#### Academic Director
+#### Software Engineering Student Association (uOttawa)
 
 *September 2014 to Present*
 
@@ -98,7 +100,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - helped arrange tech-talks
 - provided students with exercises to help improve their programming skills
 
-###Wiconnect Corp.
+### IT Specialist Intern
+
+####Wiconnect Corp.
 
 *June 2013 to July 2013*
 
