@@ -2,12 +2,13 @@
  * Less based style sheet.
  * @author Nat Welch
  * @author Ted Morin
+ * @author Zaid Qureshi
  */
 
 $fg:     #333333;
 $bg:     #FAFAFA;
-$link:   lighten(desaturate(#457313, 10%), 10%);
-$border: lighten(desaturate(#699A33, 30%), 30%);
+$link:   lighten(desaturate(#229088, 10%), 10%);
+$border: lighten(desaturate(#1C423F, 30%), 30%);
 
 $list-columns-desktop: 5;
 $list-columns-mobile: 3;
@@ -210,7 +211,9 @@ body {
         width: 100% / $list-columns-desktop - 1%;
       }
     }
-
+    li{
+      text-indent: 1.1em;
+    }
     /*Float right italics after an h4,
     * Meant for dates.
     */

@@ -2,12 +2,13 @@
  * Less based style sheet.
  * @author Nat Welch
  * @author Ted Morin
+ * @author Zaid Qureshi
  */
 
 $fg: #000;
 $bg: #FFF;
-$link: #457313;
-$border: desaturate(lighten(#699A33, 10%), 10%);
+$link: #229088;
+$border: desaturate(lighten(#1C423F, 10%), 10%);
 $list-columns-desktop: 5;
 * {
     margin: 0;
@@ -43,7 +44,9 @@ body {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+   // margin-bottom: 30px;
     padding: 10px;
     h1, h2, h3, h4, h5, h6 {
         border: 0;
@@ -182,4 +185,5 @@ body {
     .page-break {
         page-break-before: always;
     }
+
 }
