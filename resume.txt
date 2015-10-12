@@ -44,7 +44,7 @@ Software Engineering student at the University of Ottawa, with a strong interest
 - Develop innovative mobile medical solutions
 - Work with Amazon Web Services
 - Build distributed, scalable, and highly available applications
-- Wrting a RESTful API
+- Writing a RESTful API
 - Unit testing and automated testing
 
 ### Mobile Application Developer
@@ -65,11 +65,11 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *January 2013 to Present*
 
-- create user friendly, and effcient applications
-- developed 40 Rabbana Duas, 40000+ downloads
-- developed Escape, 700+ downloads
-- developed Line Maze
-- playstore developer name: zaid.qureshi
+- Create user friendly, and effcient applications
+- Developed 40 Rabbana Duas, 40000+ downloads
+- Developed Escape, 700+ downloads
+- Developed Line Maze
+- Playstore developer name: [zaid.qureshi](https://play.google.com/store/apps/developer?id=zaid.qureshi)
 
 ### Computer Science Tutor
 
@@ -77,9 +77,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *January 2013 to Present*
 
-- helped students understand basic and advanced programming concepts
-- came up with exercises for the students
-- provided efficient solutions for the problems students face
+- Helped students understand basic and advanced programming concepts
+- Came up with exercises for the students
+- Provided efficient solutions for the problems students face
 
 ### Academic Director
 
@@ -87,9 +87,9 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *September 2014 to Present*
 
-- helped students with problems in their courses
-- helped arrange tech-talks
-- provided students with exercises to help improve their programming skills
+- Helped students with problems in their courses
+- Helped arrange tech-talks
+- Provided students with exercises to help improve their programming skills
 
 ### IT Specialist Intern
 
@@ -97,35 +97,35 @@ Software Engineering student at the University of Ottawa, with a strong interest
 
 *June 2013 to July 2013*
 
-- provided IT support remotely to clients, at client locations
-- repaired or replaced different parents in laptops or desktops
-- finished tasks within given time period, satisfied client needs
-- assist IT specialists with their tasks
+- Provided IT support remotely to clients, at client locations
+- Repaired or replaced different parents in laptops or desktops
+- Finished tasks within given time period, satisfied client needs
+- Assist IT specialists with their tasks
 
 
 ## Concepts
 
 ### Analysis and Design of User Interfaces
 
-- knowledge of evaluating user interfaces, usability engineering, task analysis
-- experience in user-centered design and prototyping.
+- Knowledge of evaluating user interfaces, usability engineering, task analysis
+- Experience in user-centered design and prototyping.
 
 ### Design and Analysis of Algorithms
 
-- analysis of algorithms: worst-case analysis, complexity analysis, asymptotic
+- Analysis of algorithms: worst-case analysis, complexity analysis, asymptotic
 notations and basic complexity classes
-- algorithm design techniques: brute force, divide and conquer, dynamic
+- Algorithm design techniques: brute force, divide and conquer, dynamic
 programming, greedy, backtracking
-- computational complexity of problems: lower bound arguments, the classes P,
+- Computational complexity of problems: lower bound arguments, the classes P,
 NP, NP-complete, dealing with NP-complete problems
 
 ### Data Structures:
 
-- advanced knowledge of balanced trees, binary-trees, hashing
-- practiced sorting of Graphs and simple graph algorithms: traversal, minimum spanning tree
-- worked with java collections library such as linkedlists iterators etc
-- performed analysis of recursive programs using recurrence relations
-- studied properties of integers and basic cryptographical applications
+- Advanced knowledge of balanced trees, binary-trees, hashing
+- Practiced sorting of Graphs and simple graph algorithms: traversal, minimum spanning tree
+- Worked with java collections library such as linkedlists iterators etc
+- Performed analysis of recursive programs using recurrence relations
+- Studied properties of integers and basic cryptographical applications
 
 ## References
 
