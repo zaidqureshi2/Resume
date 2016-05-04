@@ -48,6 +48,8 @@ body {
     margin-top: 0;
    // margin-bottom: 30px;
     padding: 10px;
+
+    padding-top: 0;
     h1, h2, h3, h4, h5, h6 {
         border: 0;
     }
@@ -129,6 +131,15 @@ body {
 
     /*** Custom CSS ***/
 
+    .skills-list {
+      display: inline;
+      margin: 0;
+    }
+    .skills-list + ul {
+      display: inline-block;
+      width: 49%;
+      margin-bottom: 0;
+    }
     /*Let the user make a horizontal list*/
     .horizontal-list + ul {
       text-align: center;
@@ -163,7 +174,7 @@ body {
         text-align: right;
         position: absolute;
         right: 0.75em;
-        top: 1em;
+        top: -2em;
         margin: 0;
     }
     h1 + ul > li:before {

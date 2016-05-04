@@ -41,8 +41,7 @@ body {
 }
 
 .download {
-  display: block;
-  text-align: right;
+    float: left;
 }
 
 #resume {
@@ -146,7 +145,15 @@ body {
 
 /*Custom CSS*/
 
-
+  .skills-list {
+    display: inline;
+    margin: 0;
+  }
+  .skills-list + ul {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 0;
+  }
   /*Let the user make a horizontal list*/
   .horizontal-list + ul {
     text-align: center;
