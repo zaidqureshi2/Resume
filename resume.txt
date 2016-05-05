@@ -59,7 +59,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### Cloud Developer
 
-#### Clearwater Clinical
+#### Clearwater Clinical, Ottawa
 
 *September 2015 to April 2016*
 
@@ -71,7 +71,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### Mobile Application Developer
 
-#### Telepin Software
+#### Telepin Software, Ottawa
 
 *January 2015 to April 2015*
 
@@ -84,7 +84,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### Android Application Developer
 
-#### Self-Employed
+#### Self-Employed, Ottawa
 
 *January 2013 to Present*
 
@@ -97,7 +97,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### Computer Science Tutor
 
-#### Self-Employed
+#### Self-Employed, Ottawa
 
 *January 2013 to Present*
 
@@ -108,7 +108,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### Academic Director
 
-#### Software Engineering Student Association (uOttawa)
+#### Software Engineering Student Association, uOttawa
 
 *September 2014 to October 2015*
 
@@ -118,7 +118,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ### IT Specialist Intern
 
-####Wiconnect Corp.
+####Wiconnect Corp., Toronto
 
 *June 2013 to July 2013*
 
