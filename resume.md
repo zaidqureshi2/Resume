@@ -46,16 +46,29 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 ## Professional Experience
 
+### Software Engineer
+
+#### Paymentus, Toronto
+
+*May 2016 to Presnt*
+
+- Develop payment solutions for a variety of clients
+- Customized billing, notifications, scheduled payments etc.
+- Develop and maintain different portals, for end users and agents
+- Technologies user: Java, Spring, Javascript, FreeMaraker, HTML, CSS, Amazon S3, Oracle DB, Tomcat
+
 ### Full Stack Developer
 
 #### Agile Governance Services, Toronto
 
-*March 2016 to present*
+*March 2016 to Present*
 
 - Design and develop pricetaxportal.com
 - Devise technical requirements
 - Built from scratch
-- Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant
+- Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
+
+<p style="page-break-after:always;"></p>
 
 ### Cloud Developer
 
@@ -126,6 +139,8 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 - Repaired or replaced different parts in laptops or desktops
 - Finished tasks within given time period, satisfied client needs
 - Assist IT specialists with their tasks
+
+<p style="page-break-after:always;"></p>
 
 ## Concepts
 
