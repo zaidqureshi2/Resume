@@ -63,7 +63,7 @@ Software Engineer with a strong interest in mobile and web development. I am alw
 
 *March 2016 to Present*
 
-- Design and develop [pricetaxportal.org](www.pricetaxportal.org)
+- Design and develop [pricetaxportal.org](http://www.pricetaxportal.org)
 - Devise technical requirements
 - Built from scratch
 - Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
