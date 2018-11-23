@@ -65,11 +65,11 @@ task :github do
 
   p files
 
-  root = "/tmp/checkout-#{Time.now.to_i}"
-  g = Git.clone(remote, root, :log => Logger.new(STDOUT))
+  root = "resume-tmp/"
+  #g = Git.clone(remote, root, :log => Logger.new(STDOUT))
 
   # Make sure this actually switches branches.
-  g.checkout(g.branch('gh-pages'))
+  #g.checkout(g.branch('gh-pages'))
 
   Dir.entries(root).keep_if {|f| File.file? f}.each {|f| g.remove f }
 
@@ -79,13 +79,13 @@ task :github do
     FileUtils.mkdir_p("#{root}/#{File.dirname(file)}")
     File.open("#{root}/#{file}", 'w') {|f| f.write(content) }
     puts "#{file} => #{root}/#{file}"
-    g.add(file)
+    #g.add(file)
   }
 
-  g.commit('Regenerating Github Pages.')
+  #g.commit('Regenerating Github Pages.')
 
   # PUSH!
-  g.push(g.remote('origin'), g.branch('gh-pages'))
+  #g.push(g.remote('origin'), g.branch('gh-pages'))
 
   puts '--> GitHub Pages Commit and Push successful.'
 end

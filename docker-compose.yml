@@ -4,6 +4,6 @@ services:
     image: ruby-image:latest
     volumes:
       - .:/usr/src/app
-    command: rake github
+    command: rake local
     ports:
       - "3000:3000"
