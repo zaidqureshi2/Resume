@@ -40,6 +40,14 @@ body {
     display: none;
 }
 
+.print-hide {
+  display: none;
+}
+
+.print-hide + * {
+  display: none;
+}
+
 #resume {
     width: 800px;
     position: relative;
