@@ -4,9 +4,11 @@
 - <zaid.qureshi94@gmail.com>, 647-783-1456
 - [www.zaid.work](http://www.zaid.work)
 
-<div style="display: auto;"></div>
+<div class="print-hide"></div>
 
 ## About
+
+<div class="print-hide"></div>
 
 Senior Software Engineer with a strong interest in AI/machine learning, mobile apps, and web development. I am always working on new projects with a passion to explore software technologies. My experience includes, but is not limited to, web development, chatbot development, OCR, Cross Platform and Android development, and entrepreneurship.
 
@@ -17,6 +19,8 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 #### University of Ottawa
 
 *Sep 2012 to Apr 2016*
+
+- Academic Director - Software Engineering Student Association
 
 ### Machine Learning
 
@@ -53,14 +57,13 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 ## Areas of Expertise
 
 - Languages: Java, JavaScript, Bash, PL/SQL, Ruby, C, C++, Python, Expect
-- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Node, Dropwizard, FreeMarker
+- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard
 - Mobile Frameworks: React Native, Android, Ionic, PhoneGap/Cordova
-- Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Puppeteer Selenium, AWS, Google Clould, Tesseract
-- IDE: Eclipse, Visual Studio Code, Sublime, Android Studio, Netbeans, IntelliJ, pgAdmin, SQL Developer, DBeaver
-- Software: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
+- Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Clould, Tesseract
+- Notable Softwares: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
 - Monitoring, Logging & Analytics: Grafana, InfluxDB, Telegraf, Elastic Search, Kibana
 - Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL)
-- Frontend: HTML, CSS, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap, EJS
+- Frontend: HTML, CSS, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap, EJS, Freemarker
 - Virutalisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
 - Chatbot & NLP/NLU: Microsoft LUIS, dailogflow, Amazon Lex
 
@@ -89,78 +92,93 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 
 ### Lead Technical Consultant (Contract)
 
-#### PSL Group, Toronto
+#### iQonsulting, Toronto
 
-*September 2018 to November 2018*
+*Sep 2018 to Nov 2018*
 
+- Engaged with a marketing organization in the health industry
 - Participated in process re-engineering exercises
 - Documented current state architecture
-- Documented future state architecutre with IT roadmap
+- Created & documented future state architecutre with IT roadmap
 - Suggested technologies to improve business processes by 50%
+- Lead interviews with IT department and other stakeholders
 - Weekly presentations with senior management
 
 ### Technical Consultant & Full Stack Developer (Contract)
 
 #### Agile Governance Services, Toronto
 
-*March 2016 to April 2017*
+*Mar 2014 to Dec 2016*
 
 - Architected and developed a secure community portal with a user centered design
 - Devised functional and non functional requirements
 - Provided technical consultation on different technologies i.e RFID, Solar Panels etc.
 - Suggested technology solutions to improve processes
 - Interviewed 30+ end users for a user centered design
-- Lead a team of 3 developers
+- Lead a team of 2 developers
 - Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
 
 ### Cloud Developer
 
 #### Clearwater Clinical, Ottawa
 
-*September 2015 to April 2016*
+*Sep 2015 to May 2016*
 
 - Developed innovative mobile medical solutions
 - Built RESTful API that was consumed by a secure React web portal used by doctors
 - Built Business Intelligence (BI) dashboards using React and d3
 - Built automated PDF reports for audiometry test
-- Automated testing
+- Automated testing using JUnit and Mocha
 - Technologies used: Java, Dropwizard, ReactJS, Mocha, JUnit, Bootstrap, d3, FreeMarker, Node, Amazon S3, HTML, CSS, iText
 
 ### Mobile Application Developer
 
 #### Telepin Software, Ottawa
 
-*January 2015 to April 2015*
+*Jan 2015 to Apr 2015*
 
 - Developed android and cross-platform mobile application for mobile payments
 - Designed 3 tier architecture server
 - Automated scripts for Testing Android, web applications, and USSD menus
 - Wrote documentation on Confluence for technical and non-technical personnel
 - Atlassian Jira used for issue tracking
-- Technologies used: Java, Android, PhoneGap, Ionic, Node, Oracle SQL, Except, HTML, CSS, AngularJS, Bootstrap
+- Technologies used: Java, Android, PhoneGap, Ionic, Oracle SQL, Expect, AngularJS, Bootstrap
 
-### Academic Director
+<p style="page-break-after:always;"></p>
 
-#### Software Engineering Student Association, uOttawa
+## Notable Projects
 
-*September 2014 to October 2015*
+### Cofounder & CEO
+
+#### Freshbe
+
+*June 2018 to Present*
+
+- Reinnovated the way barbers and customers interact
+- Conducted interviews for a user centered design while working with UX designers
+- Validated the solution by interviewing end users
+- Architected front end & RESTful API using tested design patterns
+- Published findings/tutorials on Medium to share with the development community
+- Created and Managed product backlog, used Kanban approach for project management
+- Lead a team of 2 senior developer, 3 junior developers, and 1 UX desginer
+- Setup development best practices for the team i.e automated testing, code reviews, CI/CD, design docs, etc.
+- Conducted frequent standups to keep team unblocked and on schedule
+- Worked with the team to create requirements document, technical desgins, and Product roadmap
+- Technologies used: Javascript, JSX, ExpressJS, React Native, PosgreSQL, CircleCI, Docker, Amazon S3, Mocha, Jest
+
+### Android Application Developer
+
+#### Self-Employed
+
+*Jan 2013 to Sep 2015*
+
+- Create user friendly, and efficient applications
+- Developed 40 Rabbana Duas (41000+ downloads)
+- Developed Escape (700+ downloads)
+- Developed Line Maze, One Ayah a Day (150+ downloads)
+- Technologies used: Android, Java, libGDX, facebook API
 
 <div style="display: none;">
-- Helped students with problems in their courses
-- Helped arrange tech-talks
-- Provided students with exercises to help improve their programming skills
-
-
-  ### Android Application Developer
-
-  #### Self-Employed
-
-  - Create user friendly, and efficient applications
-  - Developed 40 Rabbana Duas (41000+ downloads)
-  - Developed Escape (700+ downloads)
-  - Developed Line Maze, One Ayah a Day (150+ downloads)
-  - Playstore developer name: [zaid.qureshi](https://play.google.com/store/apps/developer?id=zaid.qureshi)
-  - Technologies used: Android, Java, libGDX, facebook API
 
   ### Computer Science Tutor
 
@@ -184,16 +202,25 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
   - Finished tasks within given time period, satisfied client needs
   - Assist IT specialists with their tasks
 </div>
-<p style="page-break-after:always;"></p>
+
+<div class="print-hide"></div>
 
 ## Concepts
 
+<div class="print-hide"></div>
+
 ### Analysis and Design of User Interfaces
+
+<div class="print-hide"></div>
 
 - Knowledge of evaluating user interfaces, usability engineering, task analysis
 - Experience in user-centered design and prototyping.
 
+<div class="print-hide"></div>
+
 ### Design and Analysis of Algorithms
+
+<div class="print-hide"></div>
 
 - Analysis of algorithms: worst-case analysis, complexity analysis, asymptotic
 notations and basic complexity classes
@@ -202,7 +229,11 @@ programming, greedy, backtracking
 - Computational complexity of problems: lower bound arguments, the classes P,
 NP, NP-complete, dealing with NP-complete problems
 
+<div class="print-hide"></div>
+
 ### Data Structures:
+
+<div class="print-hide"></div>
 
 - Advanced knowledge of balanced trees, binary-trees, hashing
 - Practiced sorting of Graphs and simple graph algorithms: traversal, minimum spanning tree
