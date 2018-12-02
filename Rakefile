@@ -65,7 +65,7 @@ task :github do
 
   p files
 
-  root = "resume-tmp/"
+  root = "docs/"
   #g = Git.clone(remote, root, :log => Logger.new(STDOUT))
 
   # Make sure this actually switches branches.

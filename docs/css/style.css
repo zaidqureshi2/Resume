@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/** Less based style sheet. @author Nat Welch @author Ted Morin @author Zaid Qureshi */
+* { margin: 0; padding: 0; }
+
+.print-hide { display: none; }
+
+body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-family: serif; font-size: 14.4px; }
+
+/** Fix float problem. http://www.positioniseverything.net/easyclearing.html */
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+
+.download { float: left; }
+
+#resume { max-width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list for contact*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
+#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
+#resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
+#resume h1:first-child { margin-top: 0.3em; padding-bottom: 0.3em; padding-top: 0.25em; border-top: none; font-size: 230%; }
+#resume h2 { font-size: 150%; margin-top: 1em; border-top: 2px solid #6f8886; padding-top: 0.5em; }
+#resume h3 { margin-top: 1em; }
+#resume p { margin: 1em 0; line-height: auto; }
+#resume ul, #resume ol { margin: 1em 0 1em 1.1em; }
+#resume ul li, #resume ol li { margin-top: 0.3em; margin-bottom: 0.3em; }
+#resume ul li li:before, #resume ol li li:before { content: '+'; }
+#resume ul li ul, #resume ul li ol, #resume ol li ul, #resume ol li ol { margin-left: 0.5em; }
+#resume ul ul, #resume ul ol, #resume ol ul, #resume ol ol { margin-top: 0; margin-bottom: 0; }
+#resume blockquote { border-left: 5px solid #6f8886; margin: 1em 0; padding-left: 0.6em; }
+#resume a, #resume a:visited { color: #37aea5; text-decoration: none; }
+#resume a:hover { text-decoration: underline; }
+#resume img { max-width: 100%; }
+#resume blockquote { margin: 1em 0; border-left: 5px solid #6f8886; padding-left: 0.6em; color: #333333; }
+#resume dt { font-weight: bold; margin-left: 1em; }
+#resume dd { margin-left: 2em; margin-bottom: 1em; }
+#resume .skills-list { display: inline; margin: 0; }
+#resume .horizontal-list + ul { text-align: center; }
+#resume .horizontal-list + ul li { font-size: 100%; list-style-type: none; display: inline-block; /*See media query for other version*/ width: 32.33333%; }
+#resume .horizontal-list + ul li:before { content: ''; }
+#resume h1 + ul { margin-left: 0.8em; }
+#resume h1 + ul > li:before { content: ''; }
+#resume ul { list-style-type: none; }
+#resume li:before { content: '■'; padding-right: 0.5em; color: #6f8886; }
+@media (max-width: 839px) { #resume .second-col + ul { margin-top: 0; }
+  #resume .skills-list + ul { margin-bottom: 0; } }
+@media (min-width: 840px) and (min-device-width: 840px) { #resume { /*Let the user make a horizontal list*/ /*Float right italics after an h4,
+* Meant for dates.
+*/ }
+  #resume ul { margin-left: 2em; text-indent: -1.1em; }
+  #resume h1:first-child { margin-top: 1em; }
+  #resume .skills-list + ul { display: inline-block; width: 49%; margin-bottom: 0; margin-left: 0.4em; text-indent: 0em; }
+  #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 0.7em; top: 1em; margin: 0; }
+  #resume ol { margin-left: 0; }
+  #resume .horizontal-list + ul li { width: 19%; }
+  #resume h4 + p > em { color: #131817; margin-top: -3.4em; padding-top: 0; font-size: 110%; float: right; text-align: right; } }
+
+/*# sourceMappingURL=style.css.map */
