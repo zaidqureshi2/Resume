@@ -64,7 +64,7 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Monitoring, Logging & Analytics: Grafana, InfluxDB, Telegraf, Elastic Search, Kibana
 - Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL), Redis
 - Frontend: HTML, CSS, Sass, Less, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap
-- Virutalisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
+- Virtualisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
 - Chatbot & NLP/NLU: Microsoft LUIS, dailogflow, Amazon Lex
 
 ## Professional Experience
@@ -143,7 +143,7 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 
 - Developed android and cross-platform mobile application for mobile payments
 - Designed 3 tier architecture server
-- Automated scripts for Testing Android, web applications, and USSD menus
+- Automated scripts for testing Android, web applications, and USSD menus
 - Wrote documentation on Confluence for technical and non-technical personnel
 - Atlassian Jira used for issue tracking
 - Technologies used: Java, Android, PhoneGap, Ionic, Oracle SQL, Expect, AngularJS, Bootstrap
