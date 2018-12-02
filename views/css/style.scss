@@ -154,11 +154,7 @@ body {
     display: inline;
     margin: 0;
   }
-  .skills-list + ul {
-    display: inline-block;
-    width: 49%;
-    margin-bottom: 0;
-  }
+
   /*Let the user make a horizontal list*/
   .horizontal-list + ul {
     text-align: center;
@@ -187,23 +183,38 @@ body {
     list-style-type: none;
   }
 
-  li {
-    text-indent: -1.1em;
-  }
-
   li:before {
     content: '■';
     padding-right: 0.5em;
     color: $border;
   }
 
-
+  @media (max-width: (($resume-width * 1.05) - 1) ) {
+    .second-col + ul {
+      margin-top: 0;
+    }
+    .skills-list + ul {
+      margin-bottom: 0;
+    }
+  }
   /*Float right for contact information*/
   @media (min-width: $resume-width * 1.05) and
       (min-device-width: $resume-width * 1.05) {
+    ul {
+      margin-left: 2em;
+      text-indent: -1.1em;
+    }
     h1:first-child {
       margin-top: 1em;
     }
+    .skills-list + ul {
+      display: inline-block;
+      width: 49%;
+      margin-bottom: 0;
+      margin-left: 0.4em;
+      text-indent: 0em;
+    }
+
     h1 + ul {
          font-size: 110%;
          float: right;
@@ -213,7 +224,7 @@ body {
          top: 1em;
          margin: 0;
      }
-    ul, ol {
+    ol {
       margin-left: 0;
     }
 
@@ -223,9 +234,7 @@ body {
         width: 100% / $list-columns-desktop - 1%;
       }
     }
-    li{
-      text-indent: 1.1em;
-    }
+
     /*Float right italics after an h4,
     * Meant for dates.
     */

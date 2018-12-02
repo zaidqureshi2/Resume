@@ -144,11 +144,22 @@ body {
       display: inline;
       margin: 0;
     }
+    ul {
+      margin-left: 2em;
+      text-indent: -1.1em;
+    }
+    h1:first-child {
+      margin-top: 1em;
+    }
     .skills-list + ul {
       display: inline-block;
       width: 49%;
       margin-bottom: 0;
+      margin-left: 0.4em;
+      text-indent: 0em;
+
     }
+
     /*Let the user make a horizontal list*/
     .horizontal-list + ul {
       text-align: center;
@@ -167,9 +178,7 @@ body {
     ul {
         list-style-type: none;
     }
-    li {
-        text-indent: 1.1em;
-    }
+
     li:before {
         content: '■';
         padding-right: 0.3em;
