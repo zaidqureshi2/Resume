@@ -45,7 +45,7 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Developed program using ML to detect hand writing
 - Self starter, took initiatives to improve business processes
 
-<ul class="skills-list"></ul>
+<ul class="skills-list second-col"></ul>
 
 - Entrepreneurial, failed TutorStaff, Parkin, working on Freshbe
 - Developed Android Application with 41000+ downloads
@@ -56,14 +56,14 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 
 ## Areas of Expertise
 
-- Languages: Java, JavaScript, Bash, PL/SQL, Ruby, C, C++, Python, Expect
-- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard
+- Languages: Java, JavaScript, Bash, PL/SQL, Ruby, C, C++, Python, Expect, EJS, Freemarker
+- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard, GraphQL
 - Mobile Frameworks: React Native, Android, Ionic, PhoneGap/Cordova
-- Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Clould, Tesseract
+- Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Clould, Tesseract, Amazon Lamadas, Webpack, Gulp, Maven, Ant
 - Notable Softwares: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
 - Monitoring, Logging & Analytics: Grafana, InfluxDB, Telegraf, Elastic Search, Kibana
-- Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL)
-- Frontend: HTML, CSS, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap, EJS, Freemarker
+- Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL), Redis
+- Frontend: HTML, CSS, Sass, Less, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap
 - Virutalisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
 - Chatbot & NLP/NLU: Microsoft LUIS, dailogflow, Amazon Lex
 
@@ -90,6 +90,24 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Took initiatives outside hours on PoCs that changed business proceses
 - Technologies used: Java, Spring, Javascript, Node, React, FreeMaraker, HTML, CSS, Amazon S3, Oracle DB, Tomcat, DailogFlow, Google Cloud APIs, Microsoft LUIS, Struts, Mocha, Mockito, Docker, AWS, Asterisk, Nginx, OCR
 
+### Cofounder & CEO
+
+#### Freshbe
+
+*June 2018 to Present*
+
+- Re-innovated the way barbers and customers interact
+- Conducted interviews for a user centered design while working with UX designers
+- Validated the solution by interviewing end users
+- Architected front end & RESTful API using tested design patterns
+- Published findings/tutorials on Medium to share with the development community
+- Created and Managed product backlog, used Kanban approach for project management
+- Lead a team of 2 senior developer, 3 junior developers, and 1 UX desginer
+- Setup development best practices for the team i.e automated testing, code reviews, CI/CD, design docs, etc.
+- Conducted frequent standups to keep team unblocked and on schedule
+- Worked with the team to create requirements document, technical desgins, and Product roadmap
+- Technologies used: Javascript, JSX, ExpressJS, React Native, PosgreSQL, CircleCI, Docker, Amazon S3, Mocha, Jest
+
 ### Lead Technical Consultant (Contract)
 
 #### iQonsulting, Toronto
@@ -103,20 +121,6 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Suggested technologies to improve business processes by 50%
 - Lead interviews with IT department and other stakeholders
 - Weekly presentations with senior management
-
-### Technical Consultant & Full Stack Developer (Contract)
-
-#### Agile Governance Services, Toronto
-
-*Mar 2014 to Dec 2016*
-
-- Architected and developed a secure community portal with a user centered design
-- Devised functional and non functional requirements
-- Provided technical consultation on different technologies i.e RFID, Solar Panels etc.
-- Suggested technology solutions to improve processes
-- Interviewed 30+ end users for a user centered design
-- Lead a team of 2 developers
-- Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
 
 ### Cloud Developer
 
@@ -144,39 +148,32 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Atlassian Jira used for issue tracking
 - Technologies used: Java, Android, PhoneGap, Ionic, Oracle SQL, Expect, AngularJS, Bootstrap
 
-<p style="page-break-after:always;"></p>
+### Technical Consultant & Full Stack Developer (Contract)
 
-## Notable Projects
+#### Agile Governance Services, Toronto
 
-### Cofounder & CEO
+*Sep 2012 to Jan 2015*
 
-#### Freshbe
+- Architected and developed a secure community portal with a user centered design
+- Devised functional and non functional requirements
+- Provided technical consultation on different technologies i.e RFID, Solar Panels etc.
+- Suggested technology solutions to improve processes
+- Interviewed 30+ end users for a user centered design
+- Lead a team of 2 developers
+- Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
 
-*June 2018 to Present*
+### Developer
 
-- Reinnovated the way barbers and customers interact
-- Conducted interviews for a user centered design while working with UX designers
-- Validated the solution by interviewing end users
-- Architected front end & RESTful API using tested design patterns
-- Published findings/tutorials on Medium to share with the development community
-- Created and Managed product backlog, used Kanban approach for project management
-- Lead a team of 2 senior developer, 3 junior developers, and 1 UX desginer
-- Setup development best practices for the team i.e automated testing, code reviews, CI/CD, design docs, etc.
-- Conducted frequent standups to keep team unblocked and on schedule
-- Worked with the team to create requirements document, technical desgins, and Product roadmap
-- Technologies used: Javascript, JSX, ExpressJS, React Native, PosgreSQL, CircleCI, Docker, Amazon S3, Mocha, Jest
-
-### Android Application Developer
-
-#### Self-Employed
-
-*Jan 2013 to Sep 2015*
+#### Side Projects
 
 - Create user friendly, and efficient applications
 - Developed 40 Rabbana Duas (41000+ downloads)
 - Developed Escape (700+ downloads)
 - Developed Line Maze, One Ayah a Day (150+ downloads)
-- Technologies used: Android, Java, libGDX, facebook API
+- Contribute to open source libraries
+- Mentor upcoming engineers
+- Write online tutorials about new technologies
+- Participate in questions on Stackoverflow
 
 <div style="display: none;">
 

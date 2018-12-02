@@ -31,23 +31,24 @@ body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-famil
 #resume dt { font-weight: bold; margin-left: 1em; }
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
 #resume .skills-list { display: inline; margin: 0; }
-#resume .skills-list + ul { display: inline-block; width: 49%; margin-bottom: 0; }
 #resume .horizontal-list + ul { text-align: center; }
 #resume .horizontal-list + ul li { font-size: 100%; list-style-type: none; display: inline-block; /*See media query for other version*/ width: 32.33333%; }
 #resume .horizontal-list + ul li:before { content: ''; }
 #resume h1 + ul { margin-left: 0.8em; }
 #resume h1 + ul > li:before { content: ''; }
 #resume ul { list-style-type: none; }
-#resume li { text-indent: -1.1em; }
 #resume li:before { content: '■'; padding-right: 0.5em; color: #6f8886; }
+@media (max-width: 839px) { #resume .second-col + ul { margin-top: 0; }
+  #resume .skills-list + ul { margin-bottom: 0; } }
 @media (min-width: 840px) and (min-device-width: 840px) { #resume { /*Let the user make a horizontal list*/ /*Float right italics after an h4,
 * Meant for dates.
 */ }
+  #resume ul { margin-left: 2em; text-indent: -1.1em; }
   #resume h1:first-child { margin-top: 1em; }
+  #resume .skills-list + ul { display: inline-block; width: 49%; margin-bottom: 0; margin-left: 0.4em; text-indent: 0em; }
   #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 0.7em; top: 1em; margin: 0; }
-  #resume ul, #resume ol { margin-left: 0; }
+  #resume ol { margin-left: 0; }
   #resume .horizontal-list + ul li { width: 19%; }
-  #resume li { text-indent: 1.1em; }
   #resume h4 + p > em { color: #131817; margin-top: -3.4em; padding-top: 0; font-size: 110%; float: right; text-align: right; } }
 
 /*# sourceMappingURL=style.css.map */
