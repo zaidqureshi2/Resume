@@ -38,26 +38,26 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 
 <ul class="skills-list"></ul>
 
+- Designed and Developed a UI rendering engine
 - Designed and Developed payment chatbot for Paymentus
 - Integrated IVR systems with voice recognition APIs
-- Developed mobile payments application for Telepin Software
 - Lead teams of 3-6 developers for multiple projects
 - Developed program using ML to detect hand writing
 - Self starter, took initiatives to improve business processes
 
 <ul class="skills-list second-col"></ul>
 
+- Designed and Developed business domain model engine
 - Entrepreneurial, failed TutorStaff, Parkin, working on Freshbe
 - Developed Android Application with 41000+ downloads
 - Designed and developed distributed web applications
-- Automated testing for apps, Web front and back end
 - Contributed to a migration from a giant monolith to SOA
 - Managed multiple projects in Deadline-Driven Environments
 
 ## Areas of Expertise
 
 - Languages: Java, JavaScript, Bash, PL/SQL, Ruby, C, C++, Python, Expect, EJS, Freemarker
-- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard, GraphQL
+- Web Frameworks: Spring MVC, Spring Boot, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard, GraphQL
 - Mobile Frameworks: React Native, Android, Ionic, PhoneGap/Cordova
 - Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Cloud, Tesseract, Amazon Lamadas, Webpack, Gulp, Maven, Ant
 - Notable Softwares: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
@@ -75,9 +75,23 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 
 *May 2016 to Present*
 
-- Develop a complete payment solutions (portals, IVR systems, etc) for a variety of clients
-- Develop integrations between Financial Systems and CIS
-- Develop and maintain different portals for end users and agents
+**Next Gen Team** - *Jan 2019  Present*
+
+- Designed and developed a configuration portal for onboarding new clients
+- Reduced new client implementations from a minimum of 1 month to several minutes
+- Designed and developed a domain model engine that allows stakeholders to define business domain model through configuration tool and use the entity definitions for CRUD operations, data integeration, defining new UI flows, generating email templates, PDFs, and SMS
+- Designed and developed a UI rendering engine that rendered web UI flows, PDFs, Emails, SMS, etc.,all of which are built via a UI builder in the configuration portal. This allows stakeholders to build new flows and enhance existing ones per client, without any development
+- Used service oriented architecture to deliver applications
+- Worked with remote teams globally
+- Prioritized multiple initiatives and deadlines
+- Managed multiple SIT and UAT environments in AWS
+- Technologies used: Java, Spring Boot, Javascript, Node, Typescript, React, FreeMaraker, HTML, CSS, Amazon S3, Oracle DB, Tomcat, Junit, Mocha, Mockito, Docker, Kubernetes, Nginx
+
+**Client Development Team** - *May 2016 to Dec 2018*
+
+- Developed a complete payment solutions (portals, IVR systems, etc) for a variety of clients
+- Developed integrations between Financial Systems and CIS
+- Developed and maintained different portals for end users and agents
 - Contributed to a migration from a giant monolith to SOA
 - Trusted with designing & fast delivery of PoCs
 - Designed and Developed chatbot to accept payments, along with other inquiries

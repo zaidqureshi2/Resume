@@ -71,7 +71,7 @@ task :github do
   # Make sure this actually switches branches.
   #g.checkout(g.branch('gh-pages'))
 
-  Dir.entries(root).keep_if {|f| File.file? f}.each {|f| g.remove f }
+  #Dir.entries(root).keep_if {|f| File.file? f}.each {|f| g.remove f }
 
   files.each {|file|
     browser.get file
