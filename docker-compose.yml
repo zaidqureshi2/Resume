@@ -1,6 +1,7 @@
 version: '3'
 services:
   rload:
+    build: .
     image: ruby-image:latest
     volumes:
       - .:/usr/src/app

@@ -62,20 +62,28 @@ Senior Software Engineer with a strong interest in AI/machine learning, mobile a
 - Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Cloud, Tesseract, Amazon Lamadas, Webpack, Gulp, Maven, Ant
 - Notable Softwares: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
 - Monitoring, Logging & Analytics: Grafana, InfluxDB, Telegraf, Elastic Search, Kibana
-- Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL), Redis
+- Databases: PostgreSQL, Oracle SQL, MySQL, DynammoDB, MongoDB (NoSQL), Redis
 - Frontend: HTML, CSS, Sass, Less, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap
 - Virtualisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
 - Chatbot & NLP/NLU: Microsoft LUIS, dailogflow, Amazon Lex
 
 ## Professional Experience
 
+### Software Development Engineer II
+
+#### Amazon, Toronto
+
+*Apr 2020 to Present*
+
+- Working on optimzing supply chains
+
 ### Senior Software Engineer
 
 #### Paymentus, Toronto
 
-*May 2016 to Present*
+*May 2016 to Apr 2020*
 
-**Next Gen Team** - *Jan 2019  Present*
+**Next Gen Team** - *Jan 2019  to Apr 2020*
 
 - Designed and developed a configuration portal for onboarding new clients
 - Reduced new client implementations from a minimum of 1 month to several minutes
